@@ -1,0 +1,9 @@
++-----------------------------------------------------------------------------------------------+----------------------------------------+
+|  Referencias Principales                                                                      |   Descripción                          |
++-----------------------------------------------------------------------------------------------+----------------------------------------|
+|  https://mpi4py.readthedocs.io/en/stable/tutorial.html                                        |   - MPI tutorial                       |
+|  https://www.youtube.com/watch?v=DWzXucbna4c                                                  |   - MPIVideo                           |
+|  http://rosalind.info/problems/list-view/                                                     |   - problemas rosalind                 |
+|  ftp://ftp.ncbi.nih.gov/genomes/HUMAN_MICROBIOM/Bacteria/Escherichia_coli_4_1_47FAA_uid39385/ |   - FTP Códigos DNA                    |
+|                                                                                               |                                        |
++-----------------------------------------------------------------------------------------------+----------------------------------------+
