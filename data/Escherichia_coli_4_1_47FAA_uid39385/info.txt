@@ -1,0 +1,21 @@
+HUMAN_MICROBIOM
+ --  Bacteria
+    -- Escherichia_coli_4_1_47FAA_uid39385/
+
+Extracted from: ftp://ftp.ncbi.nih.gov/genomes
+-----------------------------------------
+Accession: NZ_ACTQ00000000.1 
+GI: 422330488 
+Taxname: Escherichia coli 4_1_47FAA 
+Taxid: 1127356 
+DNA  length = 5256230 
+Genetic Code: 11 
+Protein count: 5306 
+CDS count: 5306 
+Pseudo CDS count: 0 
+RNA count: 83 
+Gene count: 5389 
+Pseudo gene count: 1 
+Others: 36 
+Total: 10814
+----------------------------------------
