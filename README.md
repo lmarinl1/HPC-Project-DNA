@@ -4,11 +4,10 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 ## Contenidos
 
 - [Integrantes](#Integrantes)
-- Instalación
-- Configuración e instalación
+- [Configuración e instalación(#Configuración-e-instalación)
 	- MPI4PY
 	- Python
-- Compil
+- Ejecución
 
 ## Integrantes
 
@@ -27,6 +26,8 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 [**Link instructivo**](https://rabernat.github.io/research_computing/parallel-programming-with-mpi-for-python.html)
 
 ### Python
+
+## Ejecución
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODQ2MjEzNywxMDE1ODgzMjA1XX0=
+eyJoaXN0b3J5IjpbNjE0NzA0MjExLDEwMTU4ODMyMDVdfQ==
 -->
