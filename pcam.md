@@ -14,11 +14,17 @@
 
 This methodology structures the design process as four distinct stages: partitioning, communication, agglomeration, and   mapping. (The acronym PCAM may serve as a useful reminder of this structure.) In the first two stages, we focus on concurrency and scalability and seek to discover algorithms with these qualities. In the third and fourth stages, attention shifts to locality and other performance-related issues.
 
+![problem](images/problem.png)
+
 ### P - Partitioning
 The computation that is to be performed and the data operated on by this computation are decomposed into small tasks. Practical issues such as the number of processors in the target computer are ignored, and attention is focused on recognizing opportunities for parallel execution.
 
+![problem](images/partition.png)
+
 ### C - Communication
 The communication required to coordinate task execution is determined, and appropriate communication structures and algorithms are defined.
+
+![problem](images/partition.png)
 
 ### A - Agglomeration
 The task and communication structures defined in the first two stages of a design are evaluated with respect to performance requirements and implementation costs. If necessary, tasks are combined into larger tasks to improve performance or to reduce development costs.
@@ -35,5 +41,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NzM4OTQ3LC0xMDM2NzcxMDk1XX0=
+eyJoaXN0b3J5IjpbNDkyMTU3OTgzLDg4NTczODk0NywtMTAzNj
+c3MTA5NV19
 -->
