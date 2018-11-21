@@ -4,6 +4,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 ## Contents
 
 - [Members](#Members)
+- [Project description](Project description)
 - [Configuration and installation](#Configuration-and-installation)
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
@@ -70,9 +71,9 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 ## References
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NjM5Mjk4LDEzMzI1MDY0OTksLTE0ND
-kxNjc0MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMz
-NzEwLDIwMzU5NDM0MzYsLTk3NjkzNjk5OCwtODA3NzgzNSwtMT
-Q3MzM5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLTI2MDQ3
-MjM4MCwtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbLTEzOTY1NzcxODQsMTMzMjUwNjQ5OSwtMT
+Q0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2NTUsLTE0Mjgx
+MzM3MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC04MDc3ODM1LC
+0xNDczMzkyMDAsLTE4MjAwNDU4MTIsLTkzNDY4NjAyNSwtMjYw
+NDcyMzgwLC05MTk3OTE3NjgsMTAxNTg4MzIwNV19
 -->
