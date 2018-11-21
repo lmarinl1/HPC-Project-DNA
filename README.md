@@ -2,8 +2,12 @@
 Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Universidad EAFIT. 
 
 
+
 ## Integrantes
 
+**Profesor Guia:**
+
+**Estudiantes**
 - Luis Miguel Marín Loaiza
 - José Orlando Rengifo Caicedo
 
@@ -16,5 +20,5 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 
 ### Python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTg4MzIwNV19
+eyJoaXN0b3J5IjpbMTI3MTc0MDE4NiwxMDE1ODgzMjA1XX0=
 -->
