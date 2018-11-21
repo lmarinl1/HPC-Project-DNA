@@ -24,17 +24,19 @@ The computation that is to be performed and the data operated on by this computa
 ### C - Communication
 The communication required to coordinate task execution is determined, and appropriate communication structures and algorithms are defined.
 
-![Communication](images/partition.png)
+![Communication](images/communicate.png)
 
 ### A - Agglomeration
 The task and communication structures defined in the first two stages of a design are evaluated with respect to performance requirements and implementation costs. If necessary, tasks are combined into larger tasks to improve performance or to reduce development costs.
 
-![Agglomeration](images/partition.png)
+![Agglomeration](images/agglomerate.png)
 
 ### M - Mapping
 Each task is assigned to a processor in a manner that attempts to satisfy the competing goals of maximizing processor utilization and minimizing communication costs. Mapping can be specified statically or determined at runtime by load-balancing algorithms.
 
-![Agglomeration](images/partition.png)
+![Agglomeration](images/map.png)
+
+![P](images/map.png)
 
 ## Designing our parallel algorithm
 
@@ -45,6 +47,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYyNDkyOTcsODg1NzM4OTQ3LC0xMD
-M2NzcxMDk1XX0=
+eyJoaXN0b3J5IjpbMTgwNjE1MjkwOCw4ODU3Mzg5NDcsLTEwMz
+Y3NzEwOTVdfQ==
 -->
