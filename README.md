@@ -26,6 +26,7 @@ En este apartado se especifica como se debe instalar y configurar las tecnologí
 ### MPI4PY
 
 [**Link de instalación Oficial**](https://pypi.org/project/mpi4py/)
+
 Este paquete proporciona enlaces de Python para el estándar de interfaz de paso de mensajes (MPI). Se implementa sobre la especificación MPI-1/2/3 y expone una API que se basa en los enlaces estándar C ++ de MPI-2.
 
 
@@ -35,6 +36,6 @@ Este paquete proporciona enlaces de Python para el estándar de interfaz de paso
 
 ## Ejecución
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkwMjAzNzksLTI2MDQ3MjM4MCwtOT
-E5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbLTkzNDY4NjAyNSwtMjYwNDcyMzgwLC05MT
+k3OTE3NjgsMTAxNTg4MzIwNV19
 -->
