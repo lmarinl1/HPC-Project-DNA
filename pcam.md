@@ -26,9 +26,10 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 ## References
 
-
+[1]https://www.mcs.anl.gov/~itf/dbpp/text/node15.html
+[2]http://homepage.physics.uiowa.edu/~ghowes/teach/ihpc12/lec/ihpc12Lec_DesignHPC12.pdf
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTIwNzc1MywtMTAzNjc3MTA5NV19
+eyJoaXN0b3J5IjpbMTMxOTkxOTk1MSwtMTAzNjc3MTA5NV19
 -->
