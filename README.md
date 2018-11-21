@@ -34,9 +34,9 @@ using pip:
 $ [sudo] pip install mpi4py
 ~~~
 
-
+or alternatively _setuptools_  **easy_install** (deprecated):
 ~~~
-$ [sudo] pip install mpi4py
+$ [sudo] easy_install mpi4py
 ~~~
 
 This package provides Python links for the standard message passing interface (MPI). It is implemented on the MPI-1/2/3 specification and exposes an API that is based on the standard C ++ links of MPI-2.
@@ -67,9 +67,9 @@ $ mpirun -n <<processes>> python script.py
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MDEwMjA4LC0xNDQ5MTY3NDM5LC0xOD
-M0MTg3MjksLTE5OTI2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQz
-NDM2LC05NzY5MzY5OTgsLTgwNzc4MzUsLTE0NzMzOTIwMCwtMT
-gyMDA0NTgxMiwtOTM0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5
-MTc2OCwxMDE1ODgzMjA1XX0=
+eyJoaXN0b3J5IjpbMTMzMjUwNjQ5OSwtMTQ0OTE2NzQzOSwtMT
+gzNDE4NzI5LC0xOTkyNjI2NTUsLTE0MjgxMzM3MTAsMjAzNTk0
+MzQzNiwtOTc2OTM2OTk4LC04MDc3ODM1LC0xNDczMzkyMDAsLT
+E4MjAwNDU4MTIsLTkzNDY4NjAyNSwtMjYwNDcyMzgwLC05MTk3
+OTE3NjgsMTAxNTg4MzIwNV19
 -->
