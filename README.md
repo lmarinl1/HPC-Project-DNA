@@ -9,7 +9,8 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
 - [Running the code](#Running-the-code)
-	- 
+	- [serial version](#serial-version)
+	- [parallel version](#parallel-version)
 - [References](#References)
 
 ## Members
@@ -70,10 +71,11 @@ $ mpirun -n <<processes>> python script.py
 ~~~
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
+##
 
 ## References
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mjg5Mjc2LDQyNDU2MDcxLDEzMzI1MD
+eyJoaXN0b3J5IjpbOTkwOTU2NTA1LDQyNDU2MDcxLDEzMzI1MD
 Y0OTksLTE0NDkxNjc0MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1
 LC0xNDI4MTMzNzEwLDIwMzU5NDM0MzYsLTk3NjkzNjk5OCwtOD
 A3NzgzNSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYw
