@@ -7,7 +7,7 @@
 	- [C - Communication](#C---Communication)
 	- [A - Agglomeration](#A---Agglomeration)
 	- [M - Mapping](#M---Mapping)
-- [Designing our parallel algorithm](#Designing our-parallel-algorithm)
+- [Designing our parallel algorithm](#Designing-our-parallel-algorithm)
 
 
 ## ¿What is PCAM?
@@ -35,5 +35,5 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzODA0MDAsLTEwMzY3NzEwOTVdfQ==
+eyJoaXN0b3J5IjpbODg1NzM4OTQ3LC0xMDM2NzcxMDk1XX0=
 -->
