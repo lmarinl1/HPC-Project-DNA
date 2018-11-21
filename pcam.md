@@ -1,6 +1,6 @@
-# Diseño Bajo Metodología PCAM
+# Design Under PCAM Methodology
 
-## ¿Que es PCAM?
+## ¿What is PCAM?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY3NzEwOTVdfQ==
+eyJoaXN0b3J5IjpbODI1NjM2NjMyLC0xMDM2NzcxMDk1XX0=
 -->
