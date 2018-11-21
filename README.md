@@ -21,6 +21,8 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 
 ## Configuración e instalación
 
+En este apartado se especifica como se debe instalar y configurar las tecnologías usadas para la realización de este proyecto.
+
 ### MPI4PY
 
 [**Link de instalación Oficial**](https://pypi.org/project/mpi4py/)
@@ -33,6 +35,6 @@ Este paquete proporciona enlaces de Python para el estándar de interfaz de paso
 
 ## Ejecución
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMT
-U4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE1ODkwMjAzNzksLTI2MDQ3MjM4MCwtOT
+E5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
 -->
