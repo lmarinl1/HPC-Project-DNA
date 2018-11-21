@@ -30,7 +30,7 @@ En este apartado se especifica como se debe instalar y configurar las tecnologí
 Este paquete proporciona enlaces de Python para el estándar de interfaz de paso de mensajes (MPI). Se implementa sobre la especificación MPI-1/2/3 y expone una API que se basa en los enlaces estándar C ++ de MPI-2.
 
 ~~~
-Esto es un párrafo de código.
+$ 
 ~~~
 
 
@@ -39,7 +39,13 @@ Esto es un párrafo de código.
 ### Python
 
 ## Ejecución
+
+Puede ejecutar una secuencia de comandos Python MPI utilizando el comando mpirun de la siguiente manera:
+
+~~~
+$ mpirun -n 4 python script.p
+~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTEyMTg3OCwtOTM0Njg2MDI1LC0yNj
-A0NzIzODAsLTkxOTc5MTc2OCwxMDE1ODgzMjA1XX0=
+eyJoaXN0b3J5IjpbLTE4MjAwNDU4MTIsLTkzNDY4NjAyNSwtMj
+YwNDcyMzgwLC05MTk3OTE3NjgsMTAxNTg4MzIwNV19
 -->
