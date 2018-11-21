@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [¿What is PCAM?](#¿What-is-PCAM?)
+- [¿What is PCAM?](#what-is-pcam)
 	- [P - Partitioning](#p---partitioning)
 	- [C - Communication](#C---Communication)
 	- [A - Agglomeration](#A---Agglomeration)
@@ -47,6 +47,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTAzNzMxMzMsODg1NzM4OTQ3LC0xMD
-M2NzcxMDk1XX0=
+eyJoaXN0b3J5IjpbMTA4NTYxNzg4OSwtMTU1MDM3MzEzMyw4OD
+U3Mzg5NDcsLTEwMzY3NzEwOTVdfQ==
 -->
