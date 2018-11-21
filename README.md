@@ -1,7 +1,12 @@
 # HPC-Project-DNA
 Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Universidad EAFIT. 
 
+## Contenidos
 
+- Integrantes
+- Instalación
+- Configuración e instalación
+- 
 
 ## Integrantes
 
@@ -21,5 +26,5 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 
 ### Python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3Mjc1MzA2LDEwMTU4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbMTU5MjA0MzE0LDEwMTU4ODMyMDVdfQ==
 -->
