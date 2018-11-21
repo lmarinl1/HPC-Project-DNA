@@ -4,10 +4,10 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 ## Contenidos
 
 - [Integrantes](#Integrantes)
-- [Configuración e instalación(#Configuración-e-instalación)
-	- MPI4PY
-	- Python
-- Ejecución
+- [Configuración e instalación](#Configuración-e-instalación)
+	- [MPI4PY](#MPI4PY)
+	- [Python](#Python)
+- [Ejecución](#Ejecución)
 
 ## Integrantes
 
@@ -29,5 +29,5 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 
 ## Ejecución
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NzA0MjExLDEwMTU4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbLTkxOTc5MTc2OCwxMDE1ODgzMjA1XX0=
 -->
