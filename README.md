@@ -3,7 +3,7 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 
 ## Contenidos
 
-- [Integrantes]
+- [Integrantes](#Integrantes)
 - Instalación
 - Configuración e instalación
 	- MPI4PY
@@ -28,5 +28,5 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 
 ### Python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE0OTk5OTEsMTAxNTg4MzIwNV19
+eyJoaXN0b3J5IjpbMTkzODQ2MjEzNywxMDE1ODgzMjA1XX0=
 -->
