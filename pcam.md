@@ -36,7 +36,7 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 ![Agglomeration](images/map.png)
 
-![P](images/map.png)
+![PCAM](images/PCAM.gif)
 
 ## Designing our parallel algorithm
 
@@ -47,6 +47,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjE1MjkwOCw4ODU3Mzg5NDcsLTEwMz
-Y3NzEwOTVdfQ==
+eyJoaXN0b3J5IjpbLTE1NTAzNzMxMzMsODg1NzM4OTQ3LC0xMD
+M2NzcxMDk1XX0=
 -->
