@@ -7,6 +7,8 @@
 	- [C - Communication](#C---Communication)
 	- [A - Agglomeration](#A---Agglomeration)
 	- [M - Mapping](#M---Mapping)
+- [Designing our parallel algorithm](#Designing our-parallel-algorithm)
+
 
 ## ¿What is PCAM?
 
@@ -24,6 +26,8 @@ The task and communication structures defined in the first two stages of a desig
 ### M - Mapping
 Each task is assigned to a processor in a manner that attempts to satisfy the competing goals of maximizing processor utilization and minimizing communication costs. Mapping can be specified statically or determined at runtime by load-balancing algorithms.
 
+## Designing our parallel algorithm
+
 ## References
 
 [1]https://www.mcs.anl.gov/~itf/dbpp/text/node15.html
@@ -31,5 +35,5 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTkxOTk1MSwtMTAzNjc3MTA5NV19
+eyJoaXN0b3J5IjpbNzIzODA0MDAsLTEwMzY3NzEwOTVdfQ==
 -->
