@@ -6,6 +6,7 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 ## Integrantes
 
 **Profesor Guia:**
+- Edwin Nelson Montoya Munera
 
 **Estudiantes**
 - Luis Miguel Marín Loaiza
@@ -20,5 +21,5 @@ Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Univer
 
 ### Python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTc0MDE4NiwxMDE1ODgzMjA1XX0=
+eyJoaXN0b3J5IjpbMjY3Mjc1MzA2LDEwMTU4ODMyMDVdfQ==
 -->
