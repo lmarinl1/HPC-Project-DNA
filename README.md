@@ -29,6 +29,16 @@ the **Message Passing Interface**, is a standardized and portable message-passin
 
 [**Official installation link**](https://pypi.org/project/mpi4py/)
 
+using pip:
+~~~
+$ [sudo] pip install mpi4py
+~~~
+
+
+~~~
+$ [sudo] pip install mpi4py
+~~~
+
 This package provides Python links for the standard message passing interface (MPI). It is implemented on the MPI-1/2/3 specification and exposes an API that is based on the standard C ++ links of MPI-2.
 
 
@@ -57,9 +67,9 @@ $ mpirun -n <<processes>> python script.py
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjYxMjEwNTcsLTE0NDkxNjc0MzksLT
-E4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5
-NDM0MzYsLTk3NjkzNjk5OCwtODA3NzgzNSwtMTQ3MzM5MjAwLC
-0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5
-NzkxNzY4LDEwMTU4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbMjg5MDEwMjA4LC0xNDQ5MTY3NDM5LC0xOD
+M0MTg3MjksLTE5OTI2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQz
+NDM2LC05NzY5MzY5OTgsLTgwNzc4MzUsLTE0NzMzOTIwMCwtMT
+gyMDA0NTgxMiwtOTM0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5
+MTc2OCwxMDE1ODgzMjA1XX0=
 -->
