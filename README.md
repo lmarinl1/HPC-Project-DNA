@@ -37,7 +37,7 @@ This package provides Python links for the standard message passing interface (M
 ### Python
 
 ~~~
-$ 
+$ from mpi4py import MPI
 ~~~
 
 ## Execution
@@ -49,8 +49,8 @@ $ mpirun -n <<processes>> python script.py
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5MjEwOTkyLDIwMzU5NDM0MzYsLTk3Nj
-kzNjk5OCwtODA3NzgzNSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEy
-LC05MzQ2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMT
-U4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOT
+c2OTM2OTk4LC04MDc3ODM1LC0xNDczMzkyMDAsLTE4MjAwNDU4
+MTIsLTkzNDY4NjAyNSwtMjYwNDcyMzgwLC05MTk3OTE3NjgsMT
+AxNTg4MzIwNV19
 -->
