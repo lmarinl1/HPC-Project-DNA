@@ -41,9 +41,10 @@ This package provides Python links for the standard message passing interface (M
 [Python](https://www.python.org/) is a modern, easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming with dynamic typing and dynamic binding. It supports modules and packages, which encourages program modularity and code reuse. Python’s elegant syntax, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
 [**MPI for Python**](https://mpi4py.readthedocs.io/en/stable/)
-To import the library use:
 
 MPI for Python provides an object oriented approach to message passing which grounds on the standard MPI-2 C++ bindings. The interface was designed with focus in translating MPI syntax and semantics of standard MPI-2 bindings for C++ to Python. Any user of the standard C/C++ MPI bindings should be able to use this module without need of learning a new interface.
+
+To import the library use:
 ~~~
 $ from mpi4py import MPI
 ~~~
@@ -56,9 +57,9 @@ $ mpirun -n <<processes>> python script.py
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkxNjc0MzksLTE4MzQxODcyOSwtMT
-k5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5NDM0MzYsLTk3Njkz
-Njk5OCwtODA3NzgzNSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEyLC
-05MzQ2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4
-ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjYxMjEwNTcsLTE0NDkxNjc0MzksLT
+E4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5
+NDM0MzYsLTk3NjkzNjk5OCwtODA3NzgzNSwtMTQ3MzM5MjAwLC
+0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5
+NzkxNzY4LDEwMTU4ODMyMDVdfQ==
 -->
