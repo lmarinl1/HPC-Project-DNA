@@ -45,9 +45,9 @@ $
 $ mpirun -n <<processes>> python script.py
 ~~~
 
-Here the -n 4 tells MPI to use four processes, which is the number of cores I have on my laptop. Then we tell MPI to run the python script named script.py.
+Here the -n << processes >> tells MPI to use four processes, which is the number of cores I have on my laptop. Then we tell MPI to run the python script named script.py.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1MzU3MzI1LC04MDc3ODM1LC0xNDczMz
-kyMDAsLTE4MjAwNDU4MTIsLTkzNDY4NjAyNSwtMjYwNDcyMzgw
-LC05MTk3OTE3NjgsMTAxNTg4MzIwNV19
+eyJoaXN0b3J5IjpbMTQwMjEwMzA3MCwtODA3NzgzNSwtMTQ3Mz
+M5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLTI2MDQ3MjM4
+MCwtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
 -->
