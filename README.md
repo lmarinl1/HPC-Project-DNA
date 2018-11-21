@@ -45,9 +45,9 @@ $
 $ mpirun -n <<processes>> python script.py
 ~~~
 
-Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script.py
+Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjkzNjk5OCwtODA3NzgzNSwtMTQ3Mz
-M5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLTI2MDQ3MjM4
-MCwtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC04MD
+c3ODM1LC0xNDczMzkyMDAsLTE4MjAwNDU4MTIsLTkzNDY4NjAy
+NSwtMjYwNDcyMzgwLC05MTk3OTE3NjgsMTAxNTg4MzIwNV19
 -->
