@@ -14,14 +14,14 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 **Professor Guide:**
 - Edwin Nelson Montoya Munera
 
-**Estudiantes**
+**Students**
 - Luis Miguel Marín Loaiza
 - José Orlando Rengifo Caicedo
 
 
-## Configuración e instalación
+## Configuration and installation
 
-En este apartado se especifica como se debe instalar y configurar las tecnologías usadas para la realización de este proyecto.
+This section specifies how to install and configure the technologies used to carry out this project.
 
 ### MPI4PY
 
@@ -46,7 +46,7 @@ Puede ejecutar una secuencia de comandos Python MPI utilizando el comando mpirun
 $ mpirun -n 4 python script.p
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzIzMjM4NiwtMTgyMDA0NTgxMiwtOT
-M0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5MTc2OCwxMDE1ODgz
-MjA1XX0=
+eyJoaXN0b3J5IjpbMzI1MzExNTQ2LC0xODIwMDQ1ODEyLC05Mz
+Q2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4ODMy
+MDVdfQ==
 -->
