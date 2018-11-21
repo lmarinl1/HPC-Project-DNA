@@ -9,6 +9,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
 - [Running the code](#Running-the-code)
+	- 
 - [References](#References)
 
 ## Members
@@ -72,9 +73,10 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 ## References
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NTYwNzEsMTMzMjUwNjQ5OSwtMTQ0OT
-E2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2NTUsLTE0MjgxMzM3
-MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC04MDc3ODM1LC0xND
-czMzkyMDAsLTE4MjAwNDU4MTIsLTkzNDY4NjAyNSwtMjYwNDcy
-MzgwLC05MTk3OTE3NjgsMTAxNTg4MzIwNV19
+eyJoaXN0b3J5IjpbLTc0Mjg5Mjc2LDQyNDU2MDcxLDEzMzI1MD
+Y0OTksLTE0NDkxNjc0MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1
+LC0xNDI4MTMzNzEwLDIwMzU5NDM0MzYsLTk3NjkzNjk5OCwtOD
+A3NzgzNSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYw
+MjUsLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ
+==
 -->
