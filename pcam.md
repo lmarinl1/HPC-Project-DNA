@@ -19,18 +19,22 @@ This methodology structures the design process as four distinct stages: partitio
 ### P - Partitioning
 The computation that is to be performed and the data operated on by this computation are decomposed into small tasks. Practical issues such as the number of processors in the target computer are ignored, and attention is focused on recognizing opportunities for parallel execution.
 
-![problem](images/partition.png)
+![Partitioning](images/partition.png)
 
 ### C - Communication
 The communication required to coordinate task execution is determined, and appropriate communication structures and algorithms are defined.
 
-![problem](images/partition.png)
+![Communication](images/partition.png)
 
 ### A - Agglomeration
 The task and communication structures defined in the first two stages of a design are evaluated with respect to performance requirements and implementation costs. If necessary, tasks are combined into larger tasks to improve performance or to reduce development costs.
 
+![Agglomeration](images/partition.png)
+
 ### M - Mapping
 Each task is assigned to a processor in a manner that attempts to satisfy the competing goals of maximizing processor utilization and minimizing communication costs. Mapping can be specified statically or determined at runtime by load-balancing algorithms.
+
+![Agglomeration](images/partition.png)
 
 ## Designing our parallel algorithm
 
@@ -41,6 +45,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMTU3OTgzLDg4NTczODk0NywtMTAzNj
-c3MTA5NV19
+eyJoaXN0b3J5IjpbLTE1MzYyNDkyOTcsODg1NzM4OTQ3LC0xMD
+M2NzcxMDk1XX0=
 -->
