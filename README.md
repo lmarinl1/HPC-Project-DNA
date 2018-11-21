@@ -4,7 +4,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 ## Contents
 
 - [Members](#Members)
-- [Configuración e instalación](#Configuración-e-instalación)
+- [Configuration and installation](#Configuration-and-installation)
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
 - [Ejecución](#Ejecución)
@@ -42,7 +42,7 @@ To import the library use:
 $ from mpi4py import MPI
 ~~~
 
-## Execution
+## Running
 
 
 ~~~
@@ -51,8 +51,8 @@ $ mpirun -n <<processes>> python script.py
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM5NjA2MjIsLTE5OTI2MjY1NSwtMT
-QyODEzMzcxMCwyMDM1OTQzNDM2LC05NzY5MzY5OTgsLTgwNzc4
-MzUsLTE0NzMzOTIwMCwtMTgyMDA0NTgxMiwtOTM0Njg2MDI1LC
-0yNjA0NzIzODAsLTkxOTc5MTc2OCwxMDE1ODgzMjA1XX0=
+eyJoaXN0b3J5IjpbLTk2NTg4ODc1NywtMTk5MjYyNjU1LC0xND
+I4MTMzNzEwLDIwMzU5NDM0MzYsLTk3NjkzNjk5OCwtODA3Nzgz
+NSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLT
+I2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
 -->
