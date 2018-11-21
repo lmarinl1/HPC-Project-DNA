@@ -3,7 +3,7 @@
 ## Contents
 
 - [¿What is PCAM?](#¿What-is-PCAM?)
-	- 
+	- P - Partitioning
 
 ## ¿What is PCAM?
 
@@ -25,5 +25,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzEyMjk3NiwtMTAzNjc3MTA5NV19
+eyJoaXN0b3J5IjpbLTEwNDc2MTg3ODksLTEwMzY3NzEwOTVdfQ
+==
 -->
