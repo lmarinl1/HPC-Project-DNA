@@ -40,13 +40,13 @@ $
 
 ## Execution
 
-You can execute a Python MPI script using the mpirun command as follows:
+
 
 ~~~
 $ mpirun -n 4 python script.py
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzc4MzUsLTE0NzMzOTIwMCwtMTgyMD
-A0NTgxMiwtOTM0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5MTc2
-OCwxMDE1ODgzMjA1XX0=
+eyJoaXN0b3J5IjpbLTE1MjA5MTU3MzYsLTgwNzc4MzUsLTE0Nz
+MzOTIwMCwtMTgyMDA0NTgxMiwtOTM0Njg2MDI1LC0yNjA0NzIz
+ODAsLTkxOTc5MTc2OCwxMDE1ODgzMjA1XX0=
 -->
