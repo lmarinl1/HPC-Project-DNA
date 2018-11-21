@@ -5,8 +5,8 @@
 - [¿What is PCAM?](#¿What-is-PCAM?)
 	- [P - Partitioning](#p---partitioning)
 	- [C - Communication](#C---Communication)
-	- [A - Agglomeration](#)
-	- [M- Mapping](#)
+	- [A - Agglomeration](#A---Agglomeration)
+	- [M - Mapping](#M---Mapping)
 
 ## ¿What is PCAM?
 
@@ -21,12 +21,12 @@ The communication required to coordinate task execution is determined, and appro
 ### A - Agglomeration
 The task and communication structures defined in the first two stages of a design are evaluated with respect to performance requirements and implementation costs. If necessary, tasks are combined into larger tasks to improve performance or to reduce development costs.
 
-### M- Mapping
+### M - Mapping
 Each task is assigned to a processor in a manner that attempts to satisfy the competing goals of maximizing processor utilization and minimizing communication costs. Mapping can be specified statically or determined at runtime by load-balancing algorithms.
 
 ## References
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjM5NDgyNCwtMTAzNjc3MTA5NV19
+eyJoaXN0b3J5IjpbNTkwMTI0MjY5LC0xMDM2NzcxMDk1XX0=
 -->
