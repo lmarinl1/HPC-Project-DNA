@@ -42,6 +42,8 @@ This package provides Python links for the standard message passing interface (M
 
 [**MPI for Python**](https://mpi4py.readthedocs.io/en/stable/)
 To import the library use:
+
+MPI for Python provides an object oriented approach to message passing which grounds on the standard MPI-2 C++ bindings. The interface was designed with focus in translating MPI syntax and semantics of standard MPI-2 bindings for C++ to Python. Any user of the standard C/C++ MPI bindings should be able to use this module without need of learning a new interface.
 ~~~
 $ from mpi4py import MPI
 ~~~
@@ -54,9 +56,9 @@ $ mpirun -n <<processes>> python script.py
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MTQ1NzU2LC0xODM0MTg3MjksLTE5OT
-I2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC05NzY5MzY5
-OTgsLTgwNzc4MzUsLTE0NzMzOTIwMCwtMTgyMDA0NTgxMiwtOT
-M0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5MTc2OCwxMDE1ODgz
-MjA1XX0=
+eyJoaXN0b3J5IjpbLTE0NDkxNjc0MzksLTE4MzQxODcyOSwtMT
+k5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5NDM0MzYsLTk3Njkz
+Njk5OCwtODA3NzgzNSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEyLC
+05MzQ2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4
+ODMyMDVdfQ==
 -->
