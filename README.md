@@ -1,17 +1,17 @@
 # HPC-Project-DNA
-Módulo HPC: Proyecto final de Tópicos Especiales de Telemática 2018-2, Universidad EAFIT. 
+Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT University.
 
-## Contenidos
+## Contents
 
-- [Integrantes](#Integrantes)
+- [Members](#Members)
 - [Configuración e instalación](#Configuración-e-instalación)
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
 - [Ejecución](#Ejecución)
 
-## Integrantes
+## Members
 
-**Profesor Guia:**
+**Professor Guide:**
 - Edwin Nelson Montoya Munera
 
 **Estudiantes**
@@ -46,6 +46,7 @@ Puede ejecutar una secuencia de comandos Python MPI utilizando el comando mpirun
 $ mpirun -n 4 python script.p
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAwNDU4MTIsLTkzNDY4NjAyNSwtMj
-YwNDcyMzgwLC05MTk3OTE3NjgsMTAxNTg4MzIwNV19
+eyJoaXN0b3J5IjpbMTEzNzIzMjM4NiwtMTgyMDA0NTgxMiwtOT
+M0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5MTc2OCwxMDE1ODgz
+MjA1XX0=
 -->
