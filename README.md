@@ -71,14 +71,16 @@ $ mpirun -n <<processes>> python script.py
 ~~~
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
-##
+
+### Serial version
+### Parallel version
 
 ## References
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwOTU2NTA1LDQyNDU2MDcxLDEzMzI1MD
-Y0OTksLTE0NDkxNjc0MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1
-LC0xNDI4MTMzNzEwLDIwMzU5NDM0MzYsLTk3NjkzNjk5OCwtOD
-A3NzgzNSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYw
-MjUsLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ
-==
+eyJoaXN0b3J5IjpbLTg3ODY5NDI3MCw0MjQ1NjA3MSwxMzMyNT
+A2NDk5LC0xNDQ5MTY3NDM5LC0xODM0MTg3MjksLTE5OTI2MjY1
+NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC05NzY5MzY5OTgsLT
+gwNzc4MzUsLTE0NzMzOTIwMCwtMTgyMDA0NTgxMiwtOTM0Njg2
+MDI1LC0yNjA0NzIzODAsLTkxOTc5MTc2OCwxMDE1ODgzMjA1XX
+0=
 -->
