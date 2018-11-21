@@ -25,28 +25,28 @@ This section specifies how to install and configure the technologies used to car
 
 ### MPI4PY
 
-[**Link de instalación Oficial**](https://pypi.org/project/mpi4py/)
+[**Official installation link**](https://pypi.org/project/mpi4py/)
 
-Este paquete proporciona enlaces de Python para el estándar de interfaz de paso de mensajes (MPI). Se implementa sobre la especificación MPI-1/2/3 y expone una API que se basa en los enlaces estándar C ++ de MPI-2.
+This package provides Python links for the standard message passing interface (MPI). It is implemented on the MPI-1/2/3 specification and exposes an API that is based on the standard C ++ links of MPI-2.
 
 ~~~
 $ 
 ~~~
 
 
-[**Link instructivo**](https://rabernat.github.io/research_computing/parallel-programming-with-mpi-for-python.html)
+[**Instructional link**](https://rabernat.github.io/research_computing/parallel-programming-with-mpi-for-python.html)
 
 ### Python
 
-## Ejecución
+## Execution
 
-Puede ejecutar una secuencia de comandos Python MPI utilizando el comando mpirun de la siguiente manera:
+You can execute a Python MPI script using the mpirun command as follows:
 
 ~~~
 $ mpirun -n 4 python script.p
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MzExNTQ2LC0xODIwMDQ1ODEyLC05Mz
-Q2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4ODMy
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzMzOTIwMCwtMTgyMDA0NTgxMiwtOT
+M0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5MTc2OCwxMDE1ODgz
+MjA1XX0=
 -->
