@@ -25,6 +25,8 @@ This section specifies how to install and configure the technologies used to car
 
 ### MPI4PY
 
+the **Message Passing Interface**, is a standardized and portable message-passing system designed to function on a wide variety of parallel computers. The standard defines the syntax and semantics of library routines and allows users to write portable programs in the main scientific programming languages (Fortran, C, or C++).
+
 [**Official installation link**](https://pypi.org/project/mpi4py/)
 
 This package provides Python links for the standard message passing interface (MPI). It is implemented on the MPI-1/2/3 specification and exposes an API that is based on the standard C ++ links of MPI-2.
@@ -35,6 +37,8 @@ This package provides Python links for the standard message passing interface (M
 [**Instructional link**](https://rabernat.github.io/research_computing/parallel-programming-with-mpi-for-python.html)
 
 ### Python
+
+[Python](https://www.python.org/) is a modern, easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming with dynamic typing and dynamic binding. It supports modules and packages, which encourages program modularity and code reuse. Python’s elegant syntax, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
 
 [**MPI for Python**](https://mpi4py.readthedocs.io/en/stable/)
 To import the library use:
@@ -50,8 +54,9 @@ $ mpirun -n <<processes>> python script.py
 
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQxODcyOSwtMTk5MjYyNjU1LC0xND
-I4MTMzNzEwLDIwMzU5NDM0MzYsLTk3NjkzNjk5OCwtODA3Nzgz
-NSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLT
-I2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbOTU4MTQ1NzU2LC0xODM0MTg3MjksLTE5OT
+I2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC05NzY5MzY5
+OTgsLTgwNzc4MzUsLTE0NzMzOTIwMCwtMTgyMDA0NTgxMiwtOT
+M0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5MTc2OCwxMDE1ODgz
+MjA1XX0=
 -->
