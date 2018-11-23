@@ -95,6 +95,8 @@ $ mpirun -n <<processes>> python script.py
 Here the -n << processes >> tells MPI to use the number of processes that you tell him, this number can not pass the number of cores you have on the machine to use. Then we tell MPI to run the python script named script .py
 
 ### Serial version
+
+
 ### Parallel version
 
 ## References
@@ -102,11 +104,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDA1MzQyMSwtNjE4MzEwMjE2LC00OD
-c1NDE2ODIsMTM3MDMwODI1MSw3NzQ1ODI4ODMsMTYwOTIwMjUx
-LDM3MTMyMjkxMCwxOTAwNjU4NDA0LDEwODg3MDQwMTQsLTExOD
-M0NjIwMTUsLTEwNTcwMjEyNjAsLTg3ODY5NDI3MCw0MjQ1NjA3
-MSwxMzMyNTA2NDk5LC0xNDQ5MTY3NDM5LC0xODM0MTg3MjksLT
-E5OTI2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC05NzY5
-MzY5OThdfQ==
+eyJoaXN0b3J5IjpbLTQxOTc3NzYxNywtNjIwMDUzNDIxLC02MT
+gzMTAyMTYsLTQ4NzU0MTY4MiwxMzcwMzA4MjUxLDc3NDU4Mjg4
+MywxNjA5MjAyNTEsMzcxMzIyOTEwLDE5MDA2NTg0MDQsMTA4OD
+cwNDAxNCwtMTE4MzQ2MjAxNSwtMTA1NzAyMTI2MCwtODc4Njk0
+MjcwLDQyNDU2MDcxLDEzMzI1MDY0OTksLTE0NDkxNjc0MzksLT
+E4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5
+NDM0MzZdfQ==
 -->
