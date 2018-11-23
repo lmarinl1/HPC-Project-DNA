@@ -111,6 +111,8 @@ If your current folder is HPC-Project-DNA, run the following command
 ~~~
 python src/serial/Counting_Protein.py <>
 ~~~
+python src/
+~~~
 
 ### Parallel version
 
@@ -123,11 +125,11 @@ python src/serial/Counting_Protein.py <>
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDAzMjE1MywtODg1NzU4MTExLDI2MT
-k5NDExMiwtNTM4OTY0MTU0LDExNjg4MDE2ODQsLTI4OTk2ODE0
-NCwtNDE5Nzc3NjE3LC02MjAwNTM0MjEsLTYxODMxMDIxNiwtND
-g3NTQxNjgyLDEzNzAzMDgyNTEsNzc0NTgyODgzLDE2MDkyMDI1
-MSwzNzEzMjI5MTAsMTkwMDY1ODQwNCwxMDg4NzA0MDE0LC0xMT
-gzNDYyMDE1LC0xMDU3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYw
-NzFdfQ==
+eyJoaXN0b3J5IjpbLTMzMjc1NDEyMCwtMjM0MDMyMTUzLC04OD
+U3NTgxMTEsMjYxOTk0MTEyLC01Mzg5NjQxNTQsMTE2ODgwMTY4
+NCwtMjg5OTY4MTQ0LC00MTk3Nzc2MTcsLTYyMDA1MzQyMSwtNj
+E4MzEwMjE2LC00ODc1NDE2ODIsMTM3MDMwODI1MSw3NzQ1ODI4
+ODMsMTYwOTIwMjUxLDM3MTMyMjkxMCwxOTAwNjU4NDA0LDEwOD
+g3MDQwMTQsLTExODM0NjIwMTUsLTEwNTcwMjEyNjAsLTg3ODY5
+NDI3MF19
 -->
