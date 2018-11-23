@@ -30,8 +30,8 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 ## Tasks
 
 Miguel : PCAM Design , Parallel version
-Jose : PCAM Design, 
-Jorge : Serial Program, Parallel Version, Project description
+Jose : PCAM Design, Serial version
+Jorge : Serial version, Parallel version, Project description
 
 ## Project description
 The Main focus of the project is to receive whole genome sequence of DNA that can come from a bacteria, virus or human, and count the number of proteins in the sequence, to do this the DNA must be transcripted to mRNA and translated to protein, so we can finally make the count.
@@ -111,7 +111,7 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODgyNTkwNCwtNDE5Nzc3NjE3LC02Mj
+eyJoaXN0b3J5IjpbLTI4OTk2ODE0NCwtNDE5Nzc3NjE3LC02Mj
 AwNTM0MjEsLTYxODMxMDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgy
 NTEsNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMD
 Y1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1LC0xMDU3MDIx
