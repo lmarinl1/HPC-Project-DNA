@@ -8,6 +8,7 @@
 	- [A - Agglomeration](#A---Agglomeration)
 	- [M - Mapping](#M---Mapping)
 - [Designing our parallel algorithm](#Designing-our-parallel-algorithm)
+	- [Performance analysis](#Performance-analysis)
 
 
 ## ¿What is PCAM?
@@ -40,7 +41,7 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 ## Designing our parallel algorithm
 
-### Pperformance analysis
+### Performance analysis
 
 ## References
 
@@ -49,6 +50,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDI2NDY3MCwtMjA3MzI4OTgxMCwxMD
-g1NjE3ODg5XX0=
+eyJoaXN0b3J5IjpbMTEzNTM4ODYwOCwtMjY0MjY0NjcwLC0yMD
+czMjg5ODEwLDEwODU2MTc4ODldfQ==
 -->
