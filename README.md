@@ -6,6 +6,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - [Members](#Members)
 - [Project description](#Project-description)
 	- [Base Counting](#Base Counting)
+	- [Transcription: DNA to mRNA](#Transcription: DNA to mRNA)
 - [Configuration and installation](#Configuration-and-installation)
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
@@ -25,10 +26,16 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - Jorge Andrés Hoyos Gómez
 
 ## Project description
-###B
+
+### Base Counting
+
 In this project we are looking on how to do a successful count of the  four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. They are guanine, cytosine, adenine and thymine.
 
+### Transcription: DNA to mRNA
+
 After this we will be performing a transcription from DNA to mRNA. During transcription, DNA is converted to messenger RNA (mRNA) by an enzyme called RNA polymerase in this project it will be converted by the algorithm . RNA is a molecule that is chemically similar to DNA, and also contains repeating nucleotide subunits. However, the “bases” of RNA differ from those of DNA in that thymine (T) is replaced by uracil (U) in RNA. DNA and RNA bases are also held together by chemical bonds and have specific base pairing rules. In DNA/RNA base pairing, adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). The conversion of DNA to mRNA occurs when an RNA polymerase makes a complementary mRNA copy of a DNA “template” sequence. Once the mRNA molecule has been synthesized, specific chemical modifications must be made that enable the mRNA to be translated into protein.
+
+### Translation: mRNA to protein 
 
 Finally the program will be performing a translation from mRNA to protein. During translation, mRNA is converted to protein. A group of three mRNA nucleotides encodes for a specific amino acid and is called a codon. Each mRNA corresponds to a specific amino acid sequence and forms the resultant protein. Two codons, called start and stop codons, signal the beginning and end of translation. The final protein product is formed after the stop codon has been reached. A table called the genetic code can be referred to in order to see which codons encode for which specific amino acids. Several of the codons end up encoding for the same amino acid, a process that is referred to as redundancy in the genetic code.
 In the next picture we can see how the codons turns into proteins.
@@ -91,11 +98,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NzUzNTUxLDE2MDkyMDI1MSwzNzEzMj
-I5MTAsMTkwMDY1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1
-LC0xMDU3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMj
-UwNjQ5OSwtMTQ0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2
-NTUsLTE0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC
-04MDc3ODM1LC0xNDczMzkyMDAsLTE4MjAwNDU4MTIsLTkzNDY4
-NjAyNV19
+eyJoaXN0b3J5IjpbLTIwMzMyNjMzNTksMTYwOTIwMjUxLDM3MT
+MyMjkxMCwxOTAwNjU4NDA0LDEwODg3MDQwMTQsLTExODM0NjIw
+MTUsLTEwNTcwMjEyNjAsLTg3ODY5NDI3MCw0MjQ1NjA3MSwxMz
+MyNTA2NDk5LC0xNDQ5MTY3NDM5LC0xODM0MTg3MjksLTE5OTI2
+MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC05NzY5MzY5OT
+gsLTgwNzc4MzUsLTE0NzMzOTIwMCwtMTgyMDA0NTgxMiwtOTM0
+Njg2MDI1XX0=
 -->
