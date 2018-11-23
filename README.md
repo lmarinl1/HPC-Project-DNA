@@ -27,7 +27,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - Jorge Andrés Hoyos Gómez
 
 ## Project description
-The Main focus of the project is to receive whole genome sequence of DNA that can come from a bacteria, virus or human, and count the number of proteins in the sequence, to do this the DNA must be transformed
+The Main focus of the project is to receive whole genome sequence of DNA that can come from a bacteria, virus or human, and count the number of proteins in the sequence, to do this the DNA must be transcripted to mRNA and translated to protein, so we can finally make the count.
 
 ### Transcription: DNA to mRNA
 
@@ -101,11 +101,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5Mjc0MDYsLTQ4NzU0MTY4MiwxMz
-cwMzA4MjUxLDc3NDU4Mjg4MywxNjA5MjAyNTEsMzcxMzIyOTEw
-LDE5MDA2NTg0MDQsMTA4ODcwNDAxNCwtMTE4MzQ2MjAxNSwtMT
-A1NzAyMTI2MCwtODc4Njk0MjcwLDQyNDU2MDcxLDEzMzI1MDY0
-OTksLTE0NDkxNjc0MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1LC
-0xNDI4MTMzNzEwLDIwMzU5NDM0MzYsLTk3NjkzNjk5OCwtODA3
-NzgzNV19
+eyJoaXN0b3J5IjpbNDk0MDU3MzUxLC00ODc1NDE2ODIsMTM3MD
+MwODI1MSw3NzQ1ODI4ODMsMTYwOTIwMjUxLDM3MTMyMjkxMCwx
+OTAwNjU4NDA0LDEwODg3MDQwMTQsLTExODM0NjIwMTUsLTEwNT
+cwMjEyNjAsLTg3ODY5NDI3MCw0MjQ1NjA3MSwxMzMyNTA2NDk5
+LC0xNDQ5MTY3NDM5LC0xODM0MTg3MjksLTE5OTI2MjY1NSwtMT
+QyODEzMzcxMCwyMDM1OTQzNDM2LC05NzY5MzY5OTgsLTgwNzc4
+MzVdfQ==
 -->
