@@ -120,17 +120,19 @@ folder_name must contain  [.fa Files](data/Human_Genome.md)
 ~~~
 $ mpirun -f ../hosts_mpi -n 4 /opt/anaconda3/bin/python3 Counting_Proteins.py /opt/dna/
 ~~~
-
+~~~
+$ mpirun -f src/hpc/hosts_mpi /opt/anaconda3/bin/python3 src/hpc/Counting_Proteins.py /opt/dna/
+~~~
 ## References
 [1] http://knowgenetics.org/dna-and-proteins/
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgyMzk2MjksLTk2OTk0MzAwOCwtMT
-ExMjUzMDI2MCw3NDcxNjE2MTEsLTExMTI1MzAyNjAsLTMzMjc1
-NDEyMCwtODg1NzU4MTExLDI2MTk5NDExMiwtNTM4OTY0MTU0LD
-ExNjg4MDE2ODQsLTI4OTk2ODE0NCwtNDE5Nzc3NjE3LC02MjAw
-NTM0MjEsLTYxODMxMDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgyNT
-EsNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMDY1
-ODQwNF19
+eyJoaXN0b3J5IjpbLTg1ODg2MzgwOCwtMTU3ODIzOTYyOSwtOT
+Y5OTQzMDA4LC0xMTEyNTMwMjYwLDc0NzE2MTYxMSwtMTExMjUz
+MDI2MCwtMzMyNzU0MTIwLC04ODU3NTgxMTEsMjYxOTk0MTEyLC
+01Mzg5NjQxNTQsMTE2ODgwMTY4NCwtMjg5OTY4MTQ0LC00MTk3
+Nzc2MTcsLTYyMDA1MzQyMSwtNjE4MzEwMjE2LC00ODc1NDE2OD
+IsMTM3MDMwODI1MSw3NzQ1ODI4ODMsMTYwOTIwMjUxLDM3MTMy
+MjkxMF19
 -->
