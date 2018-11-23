@@ -45,6 +45,8 @@ The Main focus of the project is to receive whole genome sequence of DNA that ca
 
 First we will be performing a transcription from DNA to mRNA. During transcription, DNA is converted to messenger RNA (mRNA) by an enzyme called RNA polymerase in this project it will be converted by the algorithm . RNA is a molecule that is chemically similar to DNA, and also contains repeating nucleotide subunits. However, the “bases” of RNA differ from those of DNA in that thymine (T) is replaced by uracil (U) in RNA. DNA and RNA bases are also held together by chemical bonds and have specific base pairing rules. In DNA/RNA base pairing, adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). The conversion of DNA to mRNA occurs when an RNA polymerase makes a complementary mRNA copy of a DNA “template” sequence. Once the mRNA molecule has been synthesized, specific chemical modifications must be made that enable the mRNA to be translated into protein.
 
+![Transcription](images/transcription.png)
+
 ### Translation: mRNA to protein 
 
 After this the program will be performing a translation from mRNA to protein. During translation, mRNA is converted to protein. A group of three mRNA nucleotides encodes for a specific amino acid and is called a codon. Each mRNA corresponds to a specific amino acid sequence and forms the resultant protein. Two codons, called start and stop codons, signal the beginning and end of translation. The final protein product is formed after the stop codon has been reached. A table called the genetic code can be referred to in order to see which codons encode for which specific amino acids. Several of the codons end up encoding for the same amino acid, a process that is referred to as redundancy in the genetic code.
@@ -116,7 +118,7 @@ folder_name must contain  [.fa Files](data/Human_Genome.md)
 ### Parallel version
 
 ~~~
-
+$ mpirun -f ../hosts_mpi -n 4 /opt/anaconda3/bin/python3 Counting_Proteins.py /opt/dna/
 ~~~
 
 ## References
@@ -124,11 +126,11 @@ folder_name must contain  [.fa Files](data/Human_Genome.md)
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI1MzAyNjAsNzQ3MTYxNjExLC0xMT
-EyNTMwMjYwLC0zMzI3NTQxMjAsLTg4NTc1ODExMSwyNjE5OTQx
-MTIsLTUzODk2NDE1NCwxMTY4ODAxNjg0LC0yODk5NjgxNDQsLT
-QxOTc3NzYxNywtNjIwMDUzNDIxLC02MTgzMTAyMTYsLTQ4NzU0
-MTY4MiwxMzcwMzA4MjUxLDc3NDU4Mjg4MywxNjA5MjAyNTEsMz
-cxMzIyOTEwLDE5MDA2NTg0MDQsMTA4ODcwNDAxNCwtMTE4MzQ2
-MjAxNV19
+eyJoaXN0b3J5IjpbLTE1NzgyMzk2MjksLTk2OTk0MzAwOCwtMT
+ExMjUzMDI2MCw3NDcxNjE2MTEsLTExMTI1MzAyNjAsLTMzMjc1
+NDEyMCwtODg1NzU4MTExLDI2MTk5NDExMiwtNTM4OTY0MTU0LD
+ExNjg4MDE2ODQsLTI4OTk2ODE0NCwtNDE5Nzc3NjE3LC02MjAw
+NTM0MjEsLTYxODMxMDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgyNT
+EsNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMDY1
+ODQwNF19
 -->
