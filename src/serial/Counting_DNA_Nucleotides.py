@@ -17,7 +17,7 @@ def countNucleotides(folderName):
     
     for filefna in archivosFna:
         filePath = folderName+'/'+filefna
-        #print " --- Analyzing "+filefna+" --- "
+        print " --- Analyzing "+filefna+" --- "
         fasta = open(filePath,'r')
         for line in fasta:
             if line[0] == '>': continue 
