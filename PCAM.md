@@ -46,8 +46,8 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 1. Algorithm design
 2. Analytical performance modeling
 3. Election of the "paradigm" of parallel programming that will be used
-	• Paradigm of parallel programming with shared memory (SM)
-	• Paradigm of parallel programming with message passing (MP) ...
+	- Paradigm of parallel programming with shared memory (SM).
+	- Paradigm of parallel programming with message passing (MP).
 4. Language / library / development tools selection that is
 will use for the creation of the program
 5. Codification
@@ -62,6 +62,6 @@ will use for the creation of the program
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTI5ODAzNywtMjY0MjY0NjcwLC0yMD
-czMjg5ODEwLDEwODU2MTc4ODldfQ==
+eyJoaXN0b3J5IjpbOTExNDk4NjM5LC0yNjQyNjQ2NzAsLTIwNz
+MyODk4MTAsMTA4NTYxNzg4OV19
 -->
