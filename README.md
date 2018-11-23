@@ -118,7 +118,7 @@ folder_name must contain  [.fa Files](data/Human_Genome.md)
 ### Parallel version
 
 ~~~
-
+$ mpirun -f ../hosts_mpi -n 4 /opt/anaconda3/bin/python3 Counting_Proteins.py /opt/dna/
 ~~~
 
 ## References
@@ -126,11 +126,11 @@ folder_name must contain  [.fa Files](data/Human_Genome.md)
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTk0MzAwOCwtMTExMjUzMDI2MCw3ND
-cxNjE2MTEsLTExMTI1MzAyNjAsLTMzMjc1NDEyMCwtODg1NzU4
-MTExLDI2MTk5NDExMiwtNTM4OTY0MTU0LDExNjg4MDE2ODQsLT
-I4OTk2ODE0NCwtNDE5Nzc3NjE3LC02MjAwNTM0MjEsLTYxODMx
-MDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgyNTEsNzc0NTgyODgzLD
-E2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMDY1ODQwNCwxMDg4NzA0
-MDE0XX0=
+eyJoaXN0b3J5IjpbLTE1NzgyMzk2MjksLTk2OTk0MzAwOCwtMT
+ExMjUzMDI2MCw3NDcxNjE2MTEsLTExMTI1MzAyNjAsLTMzMjc1
+NDEyMCwtODg1NzU4MTExLDI2MTk5NDExMiwtNTM4OTY0MTU0LD
+ExNjg4MDE2ODQsLTI4OTk2ODE0NCwtNDE5Nzc3NjE3LC02MjAw
+NTM0MjEsLTYxODMxMDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgyNT
+EsNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMDY1
+ODQwNF19
 -->
