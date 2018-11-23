@@ -44,7 +44,7 @@ Given the genome, the program will go through it recognizing and changing every 
 ### Protein Counting
 Finally there will be two outputs:
 1. The amount of proteins that there is in the given genome.
-2. A file with the conversion from the DNA to protein.
+2. A file with the conversion from the DNA to protein sequence .
 
 ## Configuration and installation
 
@@ -102,11 +102,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc4ODQ3NDgsLTYxODMxMDIxNiwtND
-g3NTQxNjgyLDEzNzAzMDgyNTEsNzc0NTgyODgzLDE2MDkyMDI1
-MSwzNzEzMjI5MTAsMTkwMDY1ODQwNCwxMDg4NzA0MDE0LC0xMT
-gzNDYyMDE1LC0xMDU3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYw
-NzEsMTMzMjUwNjQ5OSwtMTQ0OTE2NzQzOSwtMTgzNDE4NzI5LC
-0xOTkyNjI2NTUsLTE0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOTc2
-OTM2OTk4XX0=
+eyJoaXN0b3J5IjpbLTYyMDA1MzQyMSwtNjE4MzEwMjE2LC00OD
+c1NDE2ODIsMTM3MDMwODI1MSw3NzQ1ODI4ODMsMTYwOTIwMjUx
+LDM3MTMyMjkxMCwxOTAwNjU4NDA0LDEwODg3MDQwMTQsLTExOD
+M0NjIwMTUsLTEwNTcwMjEyNjAsLTg3ODY5NDI3MCw0MjQ1NjA3
+MSwxMzMyNTA2NDk5LC0xNDQ5MTY3NDM5LC0xODM0MTg3MjksLT
+E5OTI2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC05NzY5
+MzY5OThdfQ==
 -->
