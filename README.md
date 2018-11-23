@@ -5,9 +5,9 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 
 - [Members](#Members)
 - [Project description](#Project-description)
-	- [Base Counting](#Base-Counting)
 	- [Transcription: DNA to mRNA](#Transcription-DNA-to-mRNA)
 	- [Translation: mRNA to protein](#Translation-mRNA-to-protein)
+	- [Protein Counting](#Protein-Counting)
 - [Configuration and installation](#Configuration-and-installation)
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
@@ -27,14 +27,11 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - Jorge Andrés Hoyos Gómez
 
 ## Project description
-
-### Base Counting
-
-In this project we are looking on how to do a successful count of the  four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. They are guanine, cytosine, adenine and thymine.
+The Main focus of the project is to receive 
 
 ### Transcription: DNA to mRNA
 
-After this we will be performing a transcription from DNA to mRNA. During transcription, DNA is converted to messenger RNA (mRNA) by an enzyme called RNA polymerase in this project it will be converted by the algorithm . RNA is a molecule that is chemically similar to DNA, and also contains repeating nucleotide subunits. However, the “bases” of RNA differ from those of DNA in that thymine (T) is replaced by uracil (U) in RNA. DNA and RNA bases are also held together by chemical bonds and have specific base pairing rules. In DNA/RNA base pairing, adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). The conversion of DNA to mRNA occurs when an RNA polymerase makes a complementary mRNA copy of a DNA “template” sequence. Once the mRNA molecule has been synthesized, specific chemical modifications must be made that enable the mRNA to be translated into protein.
+First we will be performing a transcription from DNA to mRNA. During transcription, DNA is converted to messenger RNA (mRNA) by an enzyme called RNA polymerase in this project it will be converted by the algorithm . RNA is a molecule that is chemically similar to DNA, and also contains repeating nucleotide subunits. However, the “bases” of RNA differ from those of DNA in that thymine (T) is replaced by uracil (U) in RNA. DNA and RNA bases are also held together by chemical bonds and have specific base pairing rules. In DNA/RNA base pairing, adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). The conversion of DNA to mRNA occurs when an RNA polymerase makes a complementary mRNA copy of a DNA “template” sequence. Once the mRNA molecule has been synthesized, specific chemical modifications must be made that enable the mRNA to be translated into protein.
 
 ### Translation: mRNA to protein 
 
@@ -43,6 +40,11 @@ In the next picture we can see how the codons turns into proteins.
 
 ![Project description](images/geneticCode.PNG)
 Given a human genome, the program will go through it counting every time it finds either a G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule that can either be a hydroxy methyl or hydroxy methyl glucose cytosine on viruses or variant bases with methyl groups or phosphosulfate may be found on mammals, for the purpose of this project we will not be counting this molecules.
+
+### Protein Counting
+
+In this project we are looking on how to do a successful count of the  four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. They are guanine, cytosine, adenine and thymine.
+
 ## Configuration and installation
 
 This section specifies how to install and configure the technologies used to carry out this project.
@@ -99,11 +101,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDMwODI1MSw3NzQ1ODI4ODMsMTYwOT
-IwMjUxLDM3MTMyMjkxMCwxOTAwNjU4NDA0LDEwODg3MDQwMTQs
-LTExODM0NjIwMTUsLTEwNTcwMjEyNjAsLTg3ODY5NDI3MCw0Mj
-Q1NjA3MSwxMzMyNTA2NDk5LC0xNDQ5MTY3NDM5LC0xODM0MTg3
-MjksLTE5OTI2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC
-05NzY5MzY5OTgsLTgwNzc4MzUsLTE0NzMzOTIwMCwtMTgyMDA0
-NTgxMl19
+eyJoaXN0b3J5IjpbLTQ4NzU0MTY4MiwxMzcwMzA4MjUxLDc3ND
+U4Mjg4MywxNjA5MjAyNTEsMzcxMzIyOTEwLDE5MDA2NTg0MDQs
+MTA4ODcwNDAxNCwtMTE4MzQ2MjAxNSwtMTA1NzAyMTI2MCwtOD
+c4Njk0MjcwLDQyNDU2MDcxLDEzMzI1MDY0OTksLTE0NDkxNjc0
+MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLD
+IwMzU5NDM0MzYsLTk3NjkzNjk5OCwtODA3NzgzNSwtMTQ3MzM5
+MjAwXX0=
 -->
