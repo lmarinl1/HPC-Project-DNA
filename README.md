@@ -25,7 +25,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 
 ## Project description
 In this project we are looking on how to do a successful count of the  four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. They are guanine, cytosine, adenine and thymine.
-Given a human genome, the program will go though it counting every time it finds either G–C–A–T or an N which stands for Not recognized.
+Given a human genome, the program will go though it counting every time it finds either G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule 
 ## Configuration and installation
 
 This section specifies how to install and configure the technologies used to carry out this project.
@@ -79,7 +79,7 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 ## References
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjUwNzgyOCwtODc4Njk0MjcwLDQyND
+eyJoaXN0b3J5IjpbLTE2OTY2NTk4OCwtODc4Njk0MjcwLDQyND
 U2MDcxLDEzMzI1MDY0OTksLTE0NDkxNjc0MzksLTE4MzQxODcy
 OSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5NDM0MzYsLT
 k3NjkzNjk5OCwtODA3NzgzNSwtMTQ3MzM5MjAwLC0xODIwMDQ1
