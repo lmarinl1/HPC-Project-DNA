@@ -39,10 +39,10 @@ After this the program will be performing a translation from mRNA to protein. Du
 In the next picture we can see how the codons turns into proteins.
 
 ![Project description](images/geneticCode.PNG)
-Given a human genome, the program will go through it counting every time it finds either a G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule that can either be a hydroxy methyl or hydroxy methyl glucose cytosine on viruses or variant bases with methyl groups or phosphosulfate may be found on mammals, for the purpose of this project we will not be counting this molecules.
+Given the genome, the program will go through it recognizing and changing every time it finds either a G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule that can either be a hydroxy methyl or hydroxy methyl glucose cytosine on viruses or variant bases with methyl groups or phosphosulfate may be found on mammals, for the purpose of this project we will not be counting this molecules.
 
 ### Protein Counting
-
+Finally the output 
 In this project we are looking on how to do a successful count of the  four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. They are guanine, cytosine, adenine and thymine.
 
 ## Configuration and installation
@@ -101,11 +101,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODMxMDIxNiwtNDg3NTQxNjgyLDEzNz
-AzMDgyNTEsNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAs
-MTkwMDY1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1LC0xMD
-U3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMjUwNjQ5
-OSwtMTQ0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2NTUsLT
-E0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC04MDc3
-ODM1XX0=
+eyJoaXN0b3J5IjpbLTExMDI0MzUwMTIsLTYxODMxMDIxNiwtND
+g3NTQxNjgyLDEzNzAzMDgyNTEsNzc0NTgyODgzLDE2MDkyMDI1
+MSwzNzEzMjI5MTAsMTkwMDY1ODQwNCwxMDg4NzA0MDE0LC0xMT
+gzNDYyMDE1LC0xMDU3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYw
+NzEsMTMzMjUwNjQ5OSwtMTQ0OTE2NzQzOSwtMTgzNDE4NzI5LC
+0xOTkyNjI2NTUsLTE0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOTc2
+OTM2OTk4XX0=
 -->
