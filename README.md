@@ -118,20 +118,20 @@ $ python src/serial/Counting_Protein.py <folder_name>
 ### Parallel version
 If your current folder is HPC-Project-DNA, run the following command 
 ~~~
-$ mpirun -f src/hpc/hosts_mpi -n 3 python3 src/hpc/Counting_Proteins.py <folder_name>
+$ mpirun -f src/hpc/hosts_mpi -n 4 python3 src/hpc/Counting_Proteins.py <folder_name>
 ~~~
-<folder_name> must contain  [.fa Files](data/Human_Genome.md)
+<folder_name> must contain  [.fa Files](data/Human_Genome.md) and must be in a shared location
 
 ## References
 [1] http://knowgenetics.org/dna-and-proteins/
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzODc0NDkzLC04NTg4NjM4MDgsLTE1Nz
-gyMzk2MjksLTk2OTk0MzAwOCwtMTExMjUzMDI2MCw3NDcxNjE2
-MTEsLTExMTI1MzAyNjAsLTMzMjc1NDEyMCwtODg1NzU4MTExLD
-I2MTk5NDExMiwtNTM4OTY0MTU0LDExNjg4MDE2ODQsLTI4OTk2
-ODE0NCwtNDE5Nzc3NjE3LC02MjAwNTM0MjEsLTYxODMxMDIxNi
-wtNDg3NTQxNjgyLDEzNzAzMDgyNTEsNzc0NTgyODgzLDE2MDky
-MDI1MV19
+eyJoaXN0b3J5IjpbOTk1MzYzMzg5LDgzMzg3NDQ5MywtODU4OD
+YzODA4LC0xNTc4MjM5NjI5LC05Njk5NDMwMDgsLTExMTI1MzAy
+NjAsNzQ3MTYxNjExLC0xMTEyNTMwMjYwLC0zMzI3NTQxMjAsLT
+g4NTc1ODExMSwyNjE5OTQxMTIsLTUzODk2NDE1NCwxMTY4ODAx
+Njg0LC0yODk5NjgxNDQsLTQxOTc3NzYxNywtNjIwMDUzNDIxLC
+02MTgzMTAyMTYsLTQ4NzU0MTY4MiwxMzcwMzA4MjUxLDc3NDU4
+Mjg4M119
 -->
