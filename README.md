@@ -26,6 +26,12 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 ## Project description
 In this project we are looking on how to do a successful count of the  four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. They are guanine, cytosine, adenine and thymine.
 
+After this we will be performing a transcription from DNA to mRNA. During transcription, DNA is converted to messenger RNA (mRNA) by an enzyme called RNA polymerase in this project it will be converted by the algorithm . RNA is a molecule that is chemically similar to DNA, and also contains repeating nucleotide subunits. However, the “bases” of RNA differ from those of DNA in that thymine (T) is replaced by uracil (U) in RNA. DNA and RNA bases are also held together by chemical bonds and have specific base pairing rules. In DNA/RNA base pairing, adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). The conversion of DNA to mRNA occurs when an RNA polymerase makes a complementary mRNA copy of a DNA “template” sequence. Once the mRNA molecule has been synthesized, specific chemical modifications must be made that enable the mRNA to be translated into protein.
+
+Finally the program will be performing a translation from mRNA to protein. During translation, mRNA is converted to protein. A group of three mRNA nucleotides encodes for a specific amino acid and is called a codon. Each mRNA corresponds to a specific amino acid sequence and forms the resultant protein. Two codons, called start and stop codons, signal the beginning and end of translation. The final protein product is formed after the stop codon has been reached. A table called the genetic code can be referred to in order to see which codons encode for which specific amino acids. Several of the codons end up encoding for the same amino acid, a process that is referred to as redundancy in the genetic code.
+In the next picture we can see how the codons turns into proteins.
+
+![Project description](images/codigogenetico.PNG)
 Given a human genome, the program will go through it counting every time it finds either a G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule that can either be a hydroxy methyl or hydroxy methyl glucose cytosine on viruses or variant bases with methyl groups or phosphosulfate may be found on mammals, for the purpose of this project we will not be counting this molecules.
 ## Configuration and installation
 
@@ -79,11 +85,13 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 ### Parallel version
 
 ## References
+[1] http://knowgenetics.org/dna-and-proteins/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTcwMjEyNjAsLTg3ODY5NDI3MCw0Mj
-Q1NjA3MSwxMzMyNTA2NDk5LC0xNDQ5MTY3NDM5LC0xODM0MTg3
-MjksLTE5OTI2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC
-05NzY5MzY5OTgsLTgwNzc4MzUsLTE0NzMzOTIwMCwtMTgyMDA0
-NTgxMiwtOTM0Njg2MDI1LC0yNjA0NzIzODAsLTkxOTc5MTc2OC
-wxMDE1ODgzMjA1XX0=
+eyJoaXN0b3J5IjpbMzcxMzIyOTEwLDE5MDA2NTg0MDQsMTA4OD
+cwNDAxNCwtMTE4MzQ2MjAxNSwtMTA1NzAyMTI2MCwtODc4Njk0
+MjcwLDQyNDU2MDcxLDEzMzI1MDY0OTksLTE0NDkxNjc0MzksLT
+E4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5
+NDM0MzYsLTk3NjkzNjk5OCwtODA3NzgzNSwtMTQ3MzM5MjAwLC
+0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5
+NzkxNzY4XX0=
 -->
