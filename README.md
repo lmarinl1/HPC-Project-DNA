@@ -45,7 +45,7 @@ The Main focus of the project is to receive whole genome sequence of DNA that ca
 
 First we will be performing a transcription from DNA to mRNA. During transcription, DNA is converted to messenger RNA (mRNA) by an enzyme called RNA polymerase in this project it will be converted by the algorithm . RNA is a molecule that is chemically similar to DNA, and also contains repeating nucleotide subunits. However, the “bases” of RNA differ from those of DNA in that thymine (T) is replaced by uracil (U) in RNA. DNA and RNA bases are also held together by chemical bonds and have specific base pairing rules. In DNA/RNA base pairing, adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). The conversion of DNA to mRNA occurs when an RNA polymerase makes a complementary mRNA copy of a DNA “template” sequence. Once the mRNA molecule has been synthesized, specific chemical modifications must be made that enable the mRNA to be translated into protein.
 
-![Transcription](images/transcription.PNG)
+![Transcription](images/transcription.png)
 
 ### Translation: mRNA to protein 
 
@@ -126,7 +126,7 @@ folder_name must contain  [.fa Files](data/Human_Genome.md)
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTI4NTU2OCwtMTExMjUzMDI2MCw3ND
+eyJoaXN0b3J5IjpbLTk2OTk0MzAwOCwtMTExMjUzMDI2MCw3ND
 cxNjE2MTEsLTExMTI1MzAyNjAsLTMzMjc1NDEyMCwtODg1NzU4
 MTExLDI2MTk5NDExMiwtNTM4OTY0MTU0LDExNjg4MDE2ODQsLT
 I4OTk2ODE0NCwtNDE5Nzc3NjE3LC02MjAwNTM0MjEsLTYxODMx
