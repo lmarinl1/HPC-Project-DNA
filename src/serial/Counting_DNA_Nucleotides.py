@@ -4,7 +4,11 @@ from os import listdir
 from os.path import isfile, join
 
 def countNucleotides(folderName):
-    archivosFna = [filefna for filefna in listdir(folderName) if filefna[-4:] == ".fna"]
+    """ Print the nucleotides count (A: Adenine, C: Citocine, G: Guanine, T: Timminine) and (N: not identified) """
+    archivosFna = [filefna for filefna in listdir(folderName) if filefna[-3:] == ".fa"]
+    if len(archivosFna) == 0: 
+        print(" The Folder given has not fasta files ")
+        return
     a = 0
     c = 0
     g = 0
@@ -13,7 +17,7 @@ def countNucleotides(folderName):
     
     for filefna in archivosFna:
         filePath = folderName+'/'+filefna
-        print " --- Analyzing "+filefna+" --- "
+        #print " --- Analyzing "+filefna+" --- "
         fasta = open(filePath,'r')
         for line in fasta:
             if line[0] == '>': continue 
@@ -45,5 +49,5 @@ if __name__=='__main__':
     try:
         main()
     except ValueError as e:
-        print("*** Error in Args ***")
+        print "*** Error in Args ***" 
 
