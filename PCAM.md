@@ -41,7 +41,8 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 ## Designing our parallel algorithm
 
-Basic cycle of a parallel program:
+**Basic cycle of a parallel program:**
+
 1. Algorithm design
 2. Analytical performance modeling
 3. Election of the "paradigm" of parallel programming that will be used
@@ -61,6 +62,6 @@ will use for the creation of the program
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzMxNDkwOSwtMjY0MjY0NjcwLC0yMD
+eyJoaXN0b3J5IjpbMTA1MTI5ODAzNywtMjY0MjY0NjcwLC0yMD
 czMjg5ODEwLDEwODU2MTc4ODldfQ==
 -->
