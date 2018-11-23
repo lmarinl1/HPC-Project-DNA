@@ -5,6 +5,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 
 - [Members](#Members)
 - [Project description](#Project-description)
+	- [Base Counting](#Base Counting)
 - [Configuration and installation](#Configuration-and-installation)
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
@@ -24,6 +25,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - Jorge Andrés Hoyos Gómez
 
 ## Project description
+###B
 In this project we are looking on how to do a successful count of the  four nucleobases in the nucleic acid of DNA that are represented by the letters G–C–A–T. They are guanine, cytosine, adenine and thymine.
 
 After this we will be performing a transcription from DNA to mRNA. During transcription, DNA is converted to messenger RNA (mRNA) by an enzyme called RNA polymerase in this project it will be converted by the algorithm . RNA is a molecule that is chemically similar to DNA, and also contains repeating nucleotide subunits. However, the “bases” of RNA differ from those of DNA in that thymine (T) is replaced by uracil (U) in RNA. DNA and RNA bases are also held together by chemical bonds and have specific base pairing rules. In DNA/RNA base pairing, adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). The conversion of DNA to mRNA occurs when an RNA polymerase makes a complementary mRNA copy of a DNA “template” sequence. Once the mRNA molecule has been synthesized, specific chemical modifications must be made that enable the mRNA to be translated into protein.
@@ -89,11 +91,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTIwMjUxLDM3MTMyMjkxMCwxOTAwNj
-U4NDA0LDEwODg3MDQwMTQsLTExODM0NjIwMTUsLTEwNTcwMjEy
-NjAsLTg3ODY5NDI3MCw0MjQ1NjA3MSwxMzMyNTA2NDk5LC0xND
-Q5MTY3NDM5LC0xODM0MTg3MjksLTE5OTI2MjY1NSwtMTQyODEz
-MzcxMCwyMDM1OTQzNDM2LC05NzY5MzY5OTgsLTgwNzc4MzUsLT
-E0NzMzOTIwMCwtMTgyMDA0NTgxMiwtOTM0Njg2MDI1LC0yNjA0
-NzIzODBdfQ==
+eyJoaXN0b3J5IjpbMzY0NzUzNTUxLDE2MDkyMDI1MSwzNzEzMj
+I5MTAsMTkwMDY1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1
+LC0xMDU3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMj
+UwNjQ5OSwtMTQ0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2
+NTUsLTE0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC
+04MDc3ODM1LC0xNDczMzkyMDAsLTE4MjAwNDU4MTIsLTkzNDY4
+NjAyNV19
 -->
