@@ -6,8 +6,8 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - [Members](#Members)
 - [Project description](#Project-description)
 	- [Base Counting](#Base-Counting)
-	- [Transcription: DNA to mRNA](#Transcription:-DNA-to-mRNA)
-	- [Translation: mRNA to protein](#Translation:-mRNA-to-protein)
+	- [Transcription: DNA to mRNA](#Transcription-DNA-to-mRNA)
+	- [Translation: mRNA to protein](#Translation-mRNA-to-protein)
 - [Configuration and installation](#Configuration-and-installation)
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
@@ -99,11 +99,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMj
-I5MTAsMTkwMDY1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1
-LC0xMDU3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMj
-UwNjQ5OSwtMTQ0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2
-NTUsLTE0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC
-04MDc3ODM1LC0xNDczMzkyMDAsLTE4MjAwNDU4MTIsLTkzNDY4
-NjAyNV19
+eyJoaXN0b3J5IjpbMTM3MDMwODI1MSw3NzQ1ODI4ODMsMTYwOT
+IwMjUxLDM3MTMyMjkxMCwxOTAwNjU4NDA0LDEwODg3MDQwMTQs
+LTExODM0NjIwMTUsLTEwNTcwMjEyNjAsLTg3ODY5NDI3MCw0Mj
+Q1NjA3MSwxMzMyNTA2NDk5LC0xNDQ5MTY3NDM5LC0xODM0MTg3
+MjksLTE5OTI2MjY1NSwtMTQyODEzMzcxMCwyMDM1OTQzNDM2LC
+05NzY5MzY5OTgsLTgwNzc4MzUsLTE0NzMzOTIwMCwtMTgyMDA0
+NTgxMl19
 -->
