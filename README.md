@@ -109,10 +109,9 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 ### Serial version
 If your current folder is HPC-Project-DNA, run the following command 
 ~~~
-$ python src/serial/Counting_Protein.py <
-ton s/folder_name>
+$ python src/serial/Counting_Protein.py <folder_name>
 ~~~
-folder_name must contain .fa files [.fa Files](data/Human_Genome.md)
+folder_name must contain  [.fa Files](data/Human_Genome.md)
 
 ### Parallel version
 
@@ -125,11 +124,11 @@ folder_name must contain .fa files [.fa Files](data/Human_Genome.md)
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3MTYxNjExLC0xMTEyNTMwMjYwLC0zMz
-I3NTQxMjAsLTg4NTc1ODExMSwyNjE5OTQxMTIsLTUzODk2NDE1
-NCwxMTY4ODAxNjg0LC0yODk5NjgxNDQsLTQxOTc3NzYxNywtNj
-IwMDUzNDIxLC02MTgzMTAyMTYsLTQ4NzU0MTY4MiwxMzcwMzA4
-MjUxLDc3NDU4Mjg4MywxNjA5MjAyNTEsMzcxMzIyOTEwLDE5MD
-A2NTg0MDQsMTA4ODcwNDAxNCwtMTE4MzQ2MjAxNSwtMTA1NzAy
-MTI2MF19
+eyJoaXN0b3J5IjpbLTExMTI1MzAyNjAsNzQ3MTYxNjExLC0xMT
+EyNTMwMjYwLC0zMzI3NTQxMjAsLTg4NTc1ODExMSwyNjE5OTQx
+MTIsLTUzODk2NDE1NCwxMTY4ODAxNjg0LC0yODk5NjgxNDQsLT
+QxOTc3NzYxNywtNjIwMDUzNDIxLC02MTgzMTAyMTYsLTQ4NzU0
+MTY4MiwxMzcwMzA4MjUxLDc3NDU4Mjg4MywxNjA5MjAyNTEsMz
+cxMzIyOTEwLDE5MDA2NTg0MDQsMTA4ODcwNDAxNCwtMTE4MzQ2
+MjAxNV19
 -->
