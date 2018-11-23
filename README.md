@@ -113,7 +113,7 @@ python src/serial/Counting_Protein.py <
 python src/
 ~~~folder_name>
 ~~~
-folder_name must contain .fa files [.fa Files](https://www.python.org/)
+folder_name must contain .fa files [.fa Files](data/Human_Genome.md)
 
 ### Parallel version
 
@@ -126,11 +126,11 @@ folder_name must contain .fa files [.fa Files](https://www.python.org/)
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTY1OTc3NywtMzMyNzU0MTIwLC04OD
-U3NTgxMTEsMjYxOTk0MTEyLC01Mzg5NjQxNTQsMTE2ODgwMTY4
-NCwtMjg5OTY4MTQ0LC00MTk3Nzc2MTcsLTYyMDA1MzQyMSwtNj
-E4MzEwMjE2LC00ODc1NDE2ODIsMTM3MDMwODI1MSw3NzQ1ODI4
-ODMsMTYwOTIwMjUxLDM3MTMyMjkxMCwxOTAwNjU4NDA0LDEwOD
-g3MDQwMTQsLTExODM0NjIwMTUsLTEwNTcwMjEyNjAsLTg3ODY5
-NDI3MF19
+eyJoaXN0b3J5IjpbLTEwNDE2NDI0MzcsLTMzMjc1NDEyMCwtOD
+g1NzU4MTExLDI2MTk5NDExMiwtNTM4OTY0MTU0LDExNjg4MDE2
+ODQsLTI4OTk2ODE0NCwtNDE5Nzc3NjE3LC02MjAwNTM0MjEsLT
+YxODMxMDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgyNTEsNzc0NTgy
+ODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMDY1ODQwNCwxMD
+g4NzA0MDE0LC0xMTgzNDYyMDE1LC0xMDU3MDIxMjYwLC04Nzg2
+OTQyNzBdfQ==
 -->
