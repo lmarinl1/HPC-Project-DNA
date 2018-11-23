@@ -31,7 +31,7 @@ After this we will be performing a transcription from DNA to mRNA. During transc
 Finally the program will be performing a translation from mRNA to protein. During translation, mRNA is converted to protein. A group of three mRNA nucleotides encodes for a specific amino acid and is called a codon. Each mRNA corresponds to a specific amino acid sequence and forms the resultant protein. Two codons, called start and stop codons, signal the beginning and end of translation. The final protein product is formed after the stop codon has been reached. A table called the genetic code can be referred to in order to see which codons encode for which specific amino acids. Several of the codons end up encoding for the same amino acid, a process that is referred to as redundancy in the genetic code.
 In the next picture we can see how the codons turns into proteins.
 
-![Project description](images/codigogenetico.PNG)
+![Project description](images/geneticCode.PNG)
 Given a human genome, the program will go through it counting every time it finds either a G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule that can either be a hydroxy methyl or hydroxy methyl glucose cytosine on viruses or variant bases with methyl groups or phosphosulfate may be found on mammals, for the purpose of this project we will not be counting this molecules.
 ## Configuration and installation
 
@@ -87,11 +87,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 ## References
 [1] http://knowgenetics.org/dna-and-proteins/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxMzIyOTEwLDE5MDA2NTg0MDQsMTA4OD
-cwNDAxNCwtMTE4MzQ2MjAxNSwtMTA1NzAyMTI2MCwtODc4Njk0
-MjcwLDQyNDU2MDcxLDEzMzI1MDY0OTksLTE0NDkxNjc0MzksLT
-E4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5
-NDM0MzYsLTk3NjkzNjk5OCwtODA3NzgzNSwtMTQ3MzM5MjAwLC
-0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLTI2MDQ3MjM4MCwtOTE5
-NzkxNzY4XX0=
+eyJoaXN0b3J5IjpbMTI2MTM3NzE3MSwzNzEzMjI5MTAsMTkwMD
+Y1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1LC0xMDU3MDIx
+MjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMjUwNjQ5OSwtMT
+Q0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2NTUsLTE0Mjgx
+MzM3MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC04MDc3ODM1LC
+0xNDczMzkyMDAsLTE4MjAwNDU4MTIsLTkzNDY4NjAyNSwtMjYw
+NDcyMzgwXX0=
 -->
