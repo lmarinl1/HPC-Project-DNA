@@ -30,7 +30,9 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 ## Tasks
 
 Miguel : PCAM Design , Parallel version
+
 Jose : PCAM Design, Serial version
+
 Jorge : Serial version, Parallel version, Project description
 
 ## Project description
@@ -111,11 +113,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTk2ODE0NCwtNDE5Nzc3NjE3LC02Mj
-AwNTM0MjEsLTYxODMxMDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgy
-NTEsNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMD
-Y1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1LC0xMDU3MDIx
-MjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMjUwNjQ5OSwtMT
-Q0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2NTUsLTE0Mjgx
-MzM3MTBdfQ==
+eyJoaXN0b3J5IjpbMTE2ODgwMTY4NCwtMjg5OTY4MTQ0LC00MT
+k3Nzc2MTcsLTYyMDA1MzQyMSwtNjE4MzEwMjE2LC00ODc1NDE2
+ODIsMTM3MDMwODI1MSw3NzQ1ODI4ODMsMTYwOTIwMjUxLDM3MT
+MyMjkxMCwxOTAwNjU4NDA0LDEwODg3MDQwMTQsLTExODM0NjIw
+MTUsLTEwNTcwMjEyNjAsLTg3ODY5NDI3MCw0MjQ1NjA3MSwxMz
+MyNTA2NDk5LC0xNDQ5MTY3NDM5LC0xODM0MTg3MjksLTE5OTI2
+MjY1NV19
 -->
