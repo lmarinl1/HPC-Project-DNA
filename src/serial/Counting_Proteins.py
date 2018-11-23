@@ -2,6 +2,7 @@
 import sys
 from os import listdir 
 from os.path import isfile, join
+from datetime import datetime
 
 # Map declaration
 m = {'GCT':'A','GCC':'A','GCA':'A','GCG':'A','CGT':'R','CGC':'R','CGA':'R','CGG':'R','AGA':'R','AGG':'R','AAT':'N','AAC':'N','GAT':'D','GAC':'D','TGT':'C','TGC':'C','CAA':'Q','CAG':'Q','GAA':'E','GAG':'E','GGT':'G','GGC':'G','GGA':'G','GGG':'G','CAT':'H','CAC':'H','ATT':'I','ATC':'I','ATA':'I','ATG':'1','TTA':'L','TTG':'L','CTT':'L','CTC':'L','CTA':'L','CTG':'L','AAA':'K','AAG':'K','ATG':'M','TTT':'F','TTC':'F','CCT':'P','CCC':'P','CCA':'P','CCG':'P','TCT':'S','TCC':'S','TCA':'S','TCG':'S','AGT':'S','AGC':'S','ACT':'T','ACC':'T','ACA':'T','ACG':'T','TGG':'W','TAT':'Y','TAC':'Y','GTT':'V','GTC':'V','GTA':'V','GTG':'V','TAA':'0','TGA':'0','TAG':'0'}
@@ -19,10 +20,12 @@ def countNucleotides(folderName):
     if len(archivosFna) == 0: 
         print(" The Folder given has not fasta files ")
         return
-    
+    # Date time 
+    instanteinicial = datetime.now()
+
     for filefna in archivosFna:
         filePath = folderName+'/'+filefna
-        print " --- Analyzing "+filefna+" --- "
+        print " --- Analyzing "+filefna+" ------------ "+str((datetime.now()-instanteinicial).seconds)+" sec"
         
         fasta = open(filePath,'r')
         rfasta = open('results/'+filefna+".proteins",'w')
@@ -31,15 +34,15 @@ def countNucleotides(folderName):
             rline = ''
             if line[0] == '>': continue
             i = 0
-            while i < len(line[:-1]):
+            while i < len(line[:-2]):
                 rline += getCodon(line[i]+line[i+1]+line[i+2])
                 i+=3
             fastaR += (rline+'\n')    
         rfasta.write(fastaR)
         rfasta.close()
         fasta.close()
-        print " --- Generated "+filefna+".proteins --- "
-        break
+        print " --- Generated "+filefna+".proteins --- "+str((datetime.now()-instanteinicial).seconds)+" sec"
+        
 def main():
     if len(sys.argv) != 2:
         raise Exception('Usage python Counting_DNA_Nucleotides.py  <FolderName>')
