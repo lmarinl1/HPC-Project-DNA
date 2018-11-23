@@ -40,7 +40,8 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 ## Designing our parallel algorithm
 
-### performance analysis
+### Performance analysis
+
 ## References
 
 [1]https://www.mcs.anl.gov/~itf/dbpp/text/node15.html
@@ -48,5 +49,5 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTc0NDEyNCwxMDg1NjE3ODg5XX0=
+eyJoaXN0b3J5IjpbLTIwNzMyODk4MTAsMTA4NTYxNzg4OV19
 -->
