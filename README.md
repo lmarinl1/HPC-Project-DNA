@@ -28,6 +28,7 @@ In this project we are looking on how to do a successful count of the  four nucl
 
 After this we will be performing a transcription from DNA to mRNA. During transcription, DNA is converted to messenger RNA (mRNA) by an enzyme called RNA polymerase in this project it will be converted by the algorithm . RNA is a molecule that is chemically similar to DNA, and also contains repeating nucleotide subunits. However, the “bases” of RNA differ from those of DNA in that thymine (T) is replaced by uracil (U) in RNA. DNA and RNA bases are also held together by chemical bonds and have specific base pairing rules. In DNA/RNA base pairing, adenine (A) pairs with uracil (U), and cytosine (C) pairs with guanine (G). The conversion of DNA to mRNA occurs when an RNA polymerase makes a complementary mRNA copy of a DNA “template” sequence. Once the mRNA molecule has been synthesized, specific chemical modifications must be made that enable the mRNA to be translated into protein.
 
+Finally the program will be performing a translation from mRNA to protein. During translation, mRNA is converted to protein. A group of three mRNA nucleotides encodes for a specific amino acid and is called a codon. Each mRNA corresponds to a specific amino acid sequence and forms the resultant protein. Two codons, called start and stop codons, signal the beginning and end of translation. The final protein product is formed after the stop codon has been reached. A table called the genetic code can be referred to in order to see which codons encode for which specific amino acids. Several of the codons end up encoding for the same amino acid, a process that is referred to as redundancy in the genetic code.
 Given a human genome, the program will go through it counting every time it finds either a G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule that can either be a hydroxy methyl or hydroxy methyl glucose cytosine on viruses or variant bases with methyl groups or phosphosulfate may be found on mammals, for the purpose of this project we will not be counting this molecules.
 ## Configuration and installation
 
@@ -83,10 +84,10 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 ## References
 [1] http://knowgenetics.org/dna-and-proteins/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzkwNTUyOCwtMTA1NzAyMTI2MCwtOD
-c4Njk0MjcwLDQyNDU2MDcxLDEzMzI1MDY0OTksLTE0NDkxNjc0
-MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLD
-IwMzU5NDM0MzYsLTk3NjkzNjk5OCwtODA3NzgzNSwtMTQ3MzM5
-MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYwMjUsLTI2MDQ3MjM4MC
-wtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
+eyJoaXN0b3J5IjpbLTExODM0NjIwMTUsLTEwNTcwMjEyNjAsLT
+g3ODY5NDI3MCw0MjQ1NjA3MSwxMzMyNTA2NDk5LC0xNDQ5MTY3
+NDM5LC0xODM0MTg3MjksLTE5OTI2MjY1NSwtMTQyODEzMzcxMC
+wyMDM1OTQzNDM2LC05NzY5MzY5OTgsLTgwNzc4MzUsLTE0NzMz
+OTIwMCwtMTgyMDA0NTgxMiwtOTM0Njg2MDI1LC0yNjA0NzIzOD
+AsLTkxOTc5MTc2OCwxMDE1ODgzMjA1XX0=
 -->
