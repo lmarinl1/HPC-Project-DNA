@@ -21,6 +21,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 **Students**
 - Luis Miguel Marín Loaiza
 - José Orlando Rengifo Caicedo
+- Jorge Andrés Hoyos Gómez
 
 ## Project description
 
