@@ -30,7 +30,7 @@ After this we will be performing a transcription from DNA to mRNA. During transc
 
 Finally the program will be performing a translation from mRNA to protein. During translation, mRNA is converted to protein. A group of three mRNA nucleotides encodes for a specific amino acid and is called a codon. Each mRNA corresponds to a specific amino acid sequence and forms the resultant protein. Two codons, called start and stop codons, signal the beginning and end of translation. The final protein product is formed after the stop codon has been reached. A table called the genetic code can be referred to in order to see which codons encode for which specific amino acids. Several of the codons end up encoding for the same amino acid, a process that is referred to as redundancy in the genetic code.
 In the next picture we can see how 
-
+![Project description](images/GeneticCode.jpg)
 Given a human genome, the program will go through it counting every time it finds either a G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule that can either be a hydroxy methyl or hydroxy methyl glucose cytosine on viruses or variant bases with methyl groups or phosphosulfate may be found on mammals, for the purpose of this project we will not be counting this molecules.
 ## Configuration and installation
 
@@ -86,10 +86,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 ## References
 [1] http://knowgenetics.org/dna-and-proteins/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMzQwMDk5LC0xMTgzNDYyMDE1LC0xMD
-U3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMjUwNjQ5
-OSwtMTQ0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2NTUsLT
-E0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC04MDc3
-ODM1LC0xNDczMzkyMDAsLTE4MjAwNDU4MTIsLTkzNDY4NjAyNS
-wtMjYwNDcyMzgwLC05MTk3OTE3NjgsMTAxNTg4MzIwNV19
+eyJoaXN0b3J5IjpbMTkwMDY1ODQwNCwtMTE4MzQ2MjAxNSwtMT
+A1NzAyMTI2MCwtODc4Njk0MjcwLDQyNDU2MDcxLDEzMzI1MDY0
+OTksLTE0NDkxNjc0MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1LC
+0xNDI4MTMzNzEwLDIwMzU5NDM0MzYsLTk3NjkzNjk5OCwtODA3
+NzgzNSwtMTQ3MzM5MjAwLC0xODIwMDQ1ODEyLC05MzQ2ODYwMj
+UsLTI2MDQ3MjM4MCwtOTE5NzkxNzY4LDEwMTU4ODMyMDVdfQ==
+
 -->
