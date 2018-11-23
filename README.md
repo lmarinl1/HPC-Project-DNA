@@ -23,8 +23,8 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - Edwin Nelson Montoya Munera
 
 **Students**
-- Luis Miguel Marín Loaiza (Grupo 31)
-- José Orlando Rengifo Caicedo (Grupo 31)
+- Luis Miguel Marín Loaiza (Grupo 32)
+- José Orlando Rengifo Caicedo (Grupo 32)
 - Jorge Andrés Hoyos Gómez (Grupo 31)
 
 ## Tasks and Videos
@@ -116,11 +116,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzc2NTcyOCwtNTM4OTY0MTU0LDExNj
-g4MDE2ODQsLTI4OTk2ODE0NCwtNDE5Nzc3NjE3LC02MjAwNTM0
-MjEsLTYxODMxMDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgyNTEsNz
-c0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMDY1ODQw
-NCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1LC0xMDU3MDIxMjYwLC
-04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMjUwNjQ5OSwtMTQ0OTE2
-NzQzOV19
+eyJoaXN0b3J5IjpbMjYxOTk0MTEyLC01Mzg5NjQxNTQsMTE2OD
+gwMTY4NCwtMjg5OTY4MTQ0LC00MTk3Nzc2MTcsLTYyMDA1MzQy
+MSwtNjE4MzEwMjE2LC00ODc1NDE2ODIsMTM3MDMwODI1MSw3Nz
+Q1ODI4ODMsMTYwOTIwMjUxLDM3MTMyMjkxMCwxOTAwNjU4NDA0
+LDEwODg3MDQwMTQsLTExODM0NjIwMTUsLTEwNTcwMjEyNjAsLT
+g3ODY5NDI3MCw0MjQ1NjA3MSwxMzMyNTA2NDk5LC0xNDQ5MTY3
+NDM5XX0=
 -->
