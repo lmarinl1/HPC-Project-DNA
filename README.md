@@ -27,7 +27,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - Jorge Andrés Hoyos Gómez
 
 ## Project description
-The Main focus of the project is to receive 
+The Main focus of the project is to receive whole genome shotgun sequence
 
 ### Transcription: DNA to mRNA
 
@@ -101,11 +101,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzU0MTY4MiwxMzcwMzA4MjUxLDc3ND
-U4Mjg4MywxNjA5MjAyNTEsMzcxMzIyOTEwLDE5MDA2NTg0MDQs
-MTA4ODcwNDAxNCwtMTE4MzQ2MjAxNSwtMTA1NzAyMTI2MCwtOD
-c4Njk0MjcwLDQyNDU2MDcxLDEzMzI1MDY0OTksLTE0NDkxNjc0
-MzksLTE4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLD
-IwMzU5NDM0MzYsLTk3NjkzNjk5OCwtODA3NzgzNSwtMTQ3MzM5
-MjAwXX0=
+eyJoaXN0b3J5IjpbMTkzNTQxNDcxNSwtNDg3NTQxNjgyLDEzNz
+AzMDgyNTEsNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAs
+MTkwMDY1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1LC0xMD
+U3MDIxMjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMjUwNjQ5
+OSwtMTQ0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2NTUsLT
+E0MjgxMzM3MTAsMjAzNTk0MzQzNiwtOTc2OTM2OTk4LC04MDc3
+ODM1XX0=
 -->
