@@ -4,6 +4,7 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 ## Contents
 
 - [Members](#Members)
+- [Tasks](#Tasks)
 - [Project description](#Project-description)
 	- [Transcription: DNA to mRNA](#Transcription-DNA-to-mRNA)
 	- [Translation: mRNA to protein](#Translation-mRNA-to-protein)
@@ -25,6 +26,8 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - Luis Miguel Marín Loaiza
 - José Orlando Rengifo Caicedo
 - Jorge Andrés Hoyos Gómez
+
+
 
 ## Project description
 The Main focus of the project is to receive whole genome sequence of DNA that can come from a bacteria, virus or human, and count the number of proteins in the sequence, to do this the DNA must be transcripted to mRNA and translated to protein, so we can finally make the count.
@@ -104,11 +107,11 @@ Here the -n << processes >> tells MPI to use the number of processes that you te
 
 [2] https://en.wikipedia.org/wiki/Genetic_code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTc3NzYxNywtNjIwMDUzNDIxLC02MT
-gzMTAyMTYsLTQ4NzU0MTY4MiwxMzcwMzA4MjUxLDc3NDU4Mjg4
-MywxNjA5MjAyNTEsMzcxMzIyOTEwLDE5MDA2NTg0MDQsMTA4OD
-cwNDAxNCwtMTE4MzQ2MjAxNSwtMTA1NzAyMTI2MCwtODc4Njk0
-MjcwLDQyNDU2MDcxLDEzMzI1MDY0OTksLTE0NDkxNjc0MzksLT
-E4MzQxODcyOSwtMTk5MjYyNjU1LC0xNDI4MTMzNzEwLDIwMzU5
-NDM0MzZdfQ==
+eyJoaXN0b3J5IjpbLTQ3NDM5Nzc0OCwtNDE5Nzc3NjE3LC02Mj
+AwNTM0MjEsLTYxODMxMDIxNiwtNDg3NTQxNjgyLDEzNzAzMDgy
+NTEsNzc0NTgyODgzLDE2MDkyMDI1MSwzNzEzMjI5MTAsMTkwMD
+Y1ODQwNCwxMDg4NzA0MDE0LC0xMTgzNDYyMDE1LC0xMDU3MDIx
+MjYwLC04Nzg2OTQyNzAsNDI0NTYwNzEsMTMzMjUwNjQ5OSwtMT
+Q0OTE2NzQzOSwtMTgzNDE4NzI5LC0xOTkyNjI2NTUsLTE0Mjgx
+MzM3MTBdfQ==
 -->
