@@ -40,7 +40,7 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 ## Designing our parallel algorithm
 
-### Performance analysis
+### Pperformance analysis
 
 ## References
 
@@ -49,5 +49,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMyODk4MTAsMTA4NTYxNzg4OV19
+eyJoaXN0b3J5IjpbLTI2NDI2NDY3MCwtMjA3MzI4OTgxMCwxMD
+g1NjE3ODg5XX0=
 -->
