@@ -32,13 +32,13 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 [Video general](https://youtu.be/O-7mL4kuajM)
 
 Miguel : Data searching, PCAM Design , Parallel version -
-Video:
+[Video](https://youtu.be/o8PB6bmwJQA)
 
 Jose : Architecture design, PCAM Design, Serial version -
-Video:
+[Video](https://youtu.be/)
 
 Jorge : Serial version, Parallel version, Project description -
-Video: 
+[Video](https://youtu.be/JLLjuKSgBMw) 
 
 ## Project description
 The Main focus of the project is to receive whole genome sequence of DNA that can come from a bacteria, virus or human, and count the number of amino acids in the sequence, to do this the DNA must be transcripted to mRNA and translated to amino acid, so we can finally make the count.
