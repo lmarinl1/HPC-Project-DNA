@@ -55,7 +55,7 @@ will use for the creation of the program
 7. Quantitative performance studies
 8. "Optimization
 
-![Data Descompostion](images/DataDescomposition.png)
+![Data Descompostion](images/DataDescomposition.png )
 
 ## References
 
@@ -64,6 +64,6 @@ will use for the creation of the program
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDU1NzAwOCw5MTE0OTg2MzksLTI2ND
+eyJoaXN0b3J5IjpbMjA5MzE0NjQ0Miw5MTE0OTg2MzksLTI2ND
 I2NDY3MCwtMjA3MzI4OTgxMCwxMDg1NjE3ODg5XX0=
 -->
