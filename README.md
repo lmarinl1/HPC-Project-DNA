@@ -35,7 +35,7 @@ Miguel : Data searching, PCAM Design , Parallel version -
 [Video](https://youtu.be/o8PB6bmwJQA)
 
 Jose : Architecture design, PCAM Design, Serial version -
-[Video](https://youtu.be/)
+[Video](https://youtu.be/VTatV3eEhg0)
 
 Jorge : Serial version, Parallel version, Project description -
 [Video](https://youtu.be/JLLjuKSgBMw) 
