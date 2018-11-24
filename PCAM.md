@@ -41,7 +41,21 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 ## Designing our parallel algorithm
 
-### Performance analysis
+**Basic cycle of a parallel program:**
+
+1. Algorithm design
+2. Analytical performance modeling
+3. Election of the "paradigm" of parallel programming that will be used
+	- Paradigm of parallel programming with shared memory (SM).
+	- Paradigm of parallel programming with message passing (MP).
+4. Language / library / development tools selection that is
+will use for the creation of the program
+5. Codification
+6. Testing and debugging
+7. Quantitative performance studies
+8. "Optimization
+
+![Data Descompostion](images/DataDescomposition.png )
 
 ## References
 
@@ -50,6 +64,6 @@ Each task is assigned to a processor in a manner that attempts to satisfy the co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTM4ODYwOCwtMjY0MjY0NjcwLC0yMD
-czMjg5ODEwLDEwODU2MTc4ODldfQ==
+eyJoaXN0b3J5IjpbMjA5MzE0NjQ0Miw5MTE0OTg2MzksLTI2ND
+I2NDY3MCwtMjA3MzI4OTgxMCwxMDg1NjE3ODg5XX0=
 -->
