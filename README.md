@@ -29,13 +29,13 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 
 ## Tasks and Videos
 
-Miguel : PCAM Design , Parallel version
+Miguel : Data searching, PCAM Design , Parallel version -
 Video:
 
-Jose : PCAM Design, Serial version
+Jose : Architecture design, PCAM Design, Serial version -
 Video:
 
-Jorge : Serial version, Parallel version, Project description
+Jorge : Serial version, Parallel version, Project description -
 Video: 
 
 ## Project description
