@@ -55,6 +55,8 @@ will use for the creation of the program
 7. Quantitative performance studies
 8. "Optimization
 
+![Data Descompostion](images/DataDescomposition.png)
+
 ## References
 
 [1]https://www.mcs.anl.gov/~itf/dbpp/text/node15.html
@@ -62,6 +64,6 @@ will use for the creation of the program
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNDk4NjM5LC0yNjQyNjQ2NzAsLTIwNz
-MyODk4MTAsMTA4NTYxNzg4OV19
+eyJoaXN0b3J5IjpbMTI5MDU1NzAwOCw5MTE0OTg2MzksLTI2ND
+I2NDY3MCwtMjA3MzI4OTgxMCwxMDg1NjE3ODg5XX0=
 -->
