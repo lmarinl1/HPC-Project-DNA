@@ -29,6 +29,8 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 
 ## Tasks and Videos
 
+[Video general](https://youtu.be/O-7mL4kuajM)
+
 Miguel : Data searching, PCAM Design , Parallel version -
 Video:
 
