@@ -58,7 +58,7 @@ Given the genome, the program will go through it recognizing and changing every 
 ### Amino Acid Counting
 Finally there will be two outputs:
 1. The amount of proteins that there is in the given genome.
-2. A file with the conversion from the DNA to protein sequence .
+2. A file with the conversion from the DNA to amino acid sequence .
 
 ## Configuration and installation
 
