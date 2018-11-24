@@ -7,8 +7,8 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 - [Tasks and Videos](#Tasks-and-Videos)
 - [Project description](#Project-description)
 	- [Transcription: DNA to mRNA](#Transcription-DNA-to-mRNA)
-	- [Translation: mRNA to protein](#Translation-mRNA-to-protein)
-	- [Protein Counting](#Protein-Counting)
+	- [Translation: mRNA to amino acid](#Translation-mRNA-to-amino-acid)
+	- [Amino Acid Counting](#Amino-Acid-Counting)
 - [Configuration and installation](#Configuration-and-installation)
 	- [MPI4PY](#MPI4PY)
 	- [Python](#Python)
@@ -29,17 +29,19 @@ Module HPC: Final project of Special Topics of Telematics 2018-2, EAFIT Universi
 
 ## Tasks and Videos
 
+[Video general](https://youtu.be/O-7mL4kuajM)
+
 Miguel : Data searching, PCAM Design , Parallel version -
-Video:
+[Video](https://youtu.be/o8PB6bmwJQA)
 
 Jose : Architecture design, PCAM Design, Serial version -
-Video:
+[Video](https://youtu.be/VTatV3eEhg0)
 
 Jorge : Serial version, Parallel version, Project description -
-Video: 
+[Video](https://youtu.be/JLLjuKSgBMw) 
 
 ## Project description
-The Main focus of the project is to receive whole genome sequence of DNA that can come from a bacteria, virus or human, and count the number of proteins in the sequence, to do this the DNA must be transcripted to mRNA and translated to protein, so we can finally make the count.
+The Main focus of the project is to receive whole genome sequence of DNA that can come from a bacteria, virus or human, and count the number of amino acids in the sequence, to do this the DNA must be transcripted to mRNA and translated to amino acid, so we can finally make the count.
 
 ### Transcription: DNA to mRNA
 
@@ -47,7 +49,7 @@ First we will be performing a transcription from DNA to mRNA. During transcripti
 
 ![Transcription](images/transcription.png)
 
-### Translation: mRNA to protein 
+### Translation: mRNA to amino acid 
 
 After this the program will be performing a translation from mRNA to protein. During translation, mRNA is converted to protein. A group of three mRNA nucleotides encodes for a specific amino acid and is called a codon. Each mRNA corresponds to a specific amino acid sequence and forms the resultant protein. Two codons, called start and stop codons, signal the beginning and end of translation. The final protein product is formed after the stop codon has been reached. A table called the genetic code can be referred to in order to see which codons encode for which specific amino acids. Several of the codons end up encoding for the same amino acid, a process that is referred to as redundancy in the genetic code.
 In the next picture we can see how the codons turns into proteins.
@@ -55,10 +57,10 @@ In the next picture we can see how the codons turns into proteins.
 ![Project description](images/geneticCode.PNG)
 Given the genome, the program will go through it recognizing and changing every time it finds either a G–C–A–T or an N which stands for Not recognized, this happens when we find a different molecule that can either be a hydroxy methyl or hydroxy methyl glucose cytosine on viruses or variant bases with methyl groups or phosphosulfate may be found on mammals, for the purpose of this project we will not be counting this molecules.
 
-### Protein Counting
+### Amino Acid Counting
 Finally there will be two outputs:
 1. The amount of proteins that there is in the given genome.
-2. A file with the conversion from the DNA to protein sequence .
+2. A file with the conversion from the DNA to amino acid sequence .
 
 ## Configuration and installation
 
